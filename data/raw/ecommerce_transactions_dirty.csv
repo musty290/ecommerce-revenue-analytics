@@ -1,0 +1,1531 @@
+order_id,order_date,customer_id,customer_age,gender,country,product_category,unit_price,quantity,discount,payment_method
+10001,2023-04-13,2273,50,FEMALE,Ghana,Electronics,71.7,3,0.1,Transfer
+10002,2023-12-15,2415,55,Male, nigeria,electronics ,160.83,3,0,card
+10003,2023-09-28,2038,40,male , nigeria,Home,245.32,4,0,Card
+10004,2023-04-17,2028,35,Female,South Africa,Beauty,241.61,3,0.1,Cash
+10005,2023-03-13,2476,40,FEMALE,Ghana,Beauty,238.33,1,0.05,Transfer
+10006,2023-07-08,2317,22,male , nigeria,Home,92.01,2,0,card
+10007,2023-01-21,2244,30,Male,Kenya,Electronics,76.74,2,,Cash
+10008,2023-04-13,2271,25,,South Africa,Fashion,131.11,4,0,card
+10009,2023-05-02,2439,45,,Nigeria,Electronics,457.69,3,0.05,Cash
+10010,2023-08-03,2238,55,Male,South Africa,Home,60.96,4,0,Cash
+10011,2023-11-27,2376,35,Male,Kenya,Home,379.93,2,,Cash
+10012,2023-03-29,2265,40,,Ghana,Fashion,379.99,2,,card
+10013,2023-04-10,2358,,male ,Nigeria,electronics ,405.84,3,,card
+10014,2023-12-26,2339,22,,Nigeria,electronics ,443.87,1,0.05,Cash
+10015,2023-06-01,2388,25,Male,Ghana,Fashion,135.2,3,0.05,Card
+10016,2023-05-11,2576,25,FEMALE,South Africa,electronics ,116.16,2,,Card
+10017,2023-05-30,2002,55,Female, nigeria,Beauty,235.43,1,,Card
+10018,2023-11-05,2428,45,FEMALE,South Africa,electronics ,136.22,4,0.05,Transfer
+10019,2023-09-15,2141,50,FEMALE,Kenya,electronics ,368.48,2,0.05,Card
+10020,2023-12-10,2375,,Male, nigeria,electronics ,319.79,4,0.05,card
+10021,2023-10-21,2323,55,,South Africa,Beauty,438.12,1,0.1,Card
+10022,2023-07-11,2145,40,male ,Ghana,electronics ,45.96,4,0.05,card
+10023,2023-10-04,2292,30,FEMALE,Kenya,Beauty,457.97,2,,Transfer
+10024,2023-06-10,2431,18,,Kenya,Fashion,150.21,3,0.1,card
+10025,2023-11-10,2584,50,male ,Kenya,Electronics,247.89,4,0.05,card
+10026,2023-01-22,2398,45,FEMALE, nigeria,Fashion,222.11,2,,card
+10027,2023-09-10,2343,22,male ,Nigeria,Electronics,381.35,2,0,Card
+10028,2023-08-24,2139,50,, nigeria,Fashion,213.06,1,0.1,Cash
+10029,2023-12-11,2186,35,Female,South Africa,Electronics,472.06,2,,card
+10030,2023-02-18,2060,45,,Nigeria,Electronics,451.75,3,0,Card
+10031,2023-02-28,2379,30,Male,South Africa,Home,436.72,3,,Card
+10032,2023-06-19,2439,35,male ,Nigeria,Electronics,40.27,4,0.05,Card
+10033,2023-07-07,2318,50,Female, nigeria,Electronics,427.86,4,0.05,Cash
+10034,2023-09-28,2301,18,male ,Kenya,Home,391.91,4,0,Cash
+10035,2023-07-09,2343,18,male ,Ghana,electronics ,56.24,4,0.05,Cash
+10036,2023-06-24,2010,30,FEMALE,Kenya,electronics ,58.17,3,,Cash
+10037,2023-02-20,2061,25,Male, nigeria,Home,55.08,1,0,Transfer
+10038,2023-12-30,2225,,male ,Nigeria,Beauty,10.61,4,,Cash
+10039,2023-02-24,2152,22,,Kenya,Electronics,276.57,1,,Cash
+10040,2023-09-01,2563,25,, nigeria,Electronics,486.83,2,,Cash
+10041,2023-11-16,2570,18,FEMALE,South Africa,Home,,2,0.05,card
+10042,2023-05-11,2583,18,Male,Ghana,Home,272.67,4,0.05,card
+10043,2023-11-03,2574,40,Male,Kenya,Beauty,484.15,2,,Cash
+10044,2023-05-15,2309,35,,Nigeria,electronics ,131.32,1,0.1,Transfer
+10045,2023-01-21,2242,50,Female,South Africa,Fashion,429.94,1,,card
+10046,2023-11-25,2492,22,FEMALE, nigeria,electronics ,275.46,2,,Card
+10047,2023-06-16,2365,30,FEMALE,Ghana,Electronics,286.89,4,0,card
+10048,2023-10-01,2329,50,,Nigeria,Home,174.87,1,,Card
+10049,2023-03-30,2106,40,, nigeria,Beauty,282.98,1,0.05,card
+10050,2023-11-12,2225,18,Female, nigeria,electronics ,41.21,3,0,Cash
+10051,2023-01-14,2217,30,Female,Kenya,Beauty,383.5,4,0.1,card
+10052,2023-08-30,2505,18,Male,Kenya,electronics ,145.92,3,0,Cash
+10053,2023-09-22,2258,22,FEMALE,Nigeria,Electronics,444.37,2,0.1,Cash
+10054,2023-12-12,2516,35,FEMALE, nigeria,Fashion,,2,0,card
+10055,2023-02-22,2053,50,,Kenya,Beauty,75.7,3,0,Card
+10056,2023-12-06,2046,50,Male,Ghana,Beauty,349.46,4,0.1,Card
+10057,2023-04-02,2520,25,FEMALE,Ghana,Fashion,,1,0.05,card
+10058,2023-09-21,2098,30,Male, nigeria,Beauty,378.07,2,0.05,Cash
+10059,2023-02-04,2019,,Male,Kenya,Beauty,484.22,4,0.05,Card
+10060,2023-07-25,2572,40,,Nigeria,electronics ,390.88,4,0,Transfer
+10061,2023-03-22,2489,,Male,Nigeria,electronics ,16.11,2,,Cash
+10062,2023-02-19,2418,25,Female,Nigeria,Fashion,301.94,2,0,card
+10063,2023-12-26,2061,22,Female,Ghana,Electronics,349.23,4,,Cash
+10064,2023-01-02,2144,40,male ,Kenya,Beauty,413.6,1,,Transfer
+10065,2023-02-23,2215,35,,Kenya,Electronics,32.72,3,0.05,Transfer
+10066,2023-04-16,2002,,male ,Ghana,Fashion,242.65,2,,Card
+10067,2023-09-17,2159,35,Female,Nigeria,Fashion,270.01,3,0,Transfer
+10068,2023-11-06,2119,,male ,Nigeria,electronics ,88.72,4,0,Cash
+10069,2023-07-10,2088,35,, nigeria,Beauty,164.61,3,0.05,Card
+10070,2023-08-06,2328,,,South Africa,Home,222.91,1,0.1,Transfer
+10071,2023-02-13,2579,35,Male,Kenya,Fashion,417.44,4,0,Card
+10072,2023-06-11,2356,25,FEMALE,Kenya,Beauty,465.06,1,,Card
+10073,2023-07-21,2266,45,Male,Kenya,Electronics,316.07,4,0,card
+10074,2023-09-27,2322,40,,South Africa,electronics ,200.5,1,0,Card
+10075,2023-12-17,2540,30,Female, nigeria,Electronics,130.75,4,0,Card
+10076,2023-10-31,2194,22,Female,South Africa,Fashion,491.16,1,0.1,Transfer
+10077,2023-09-28,2331,55,Male,Nigeria,Fashion,491.59,4,,Cash
+10078,2023-08-03,2169,18,,Nigeria,Electronics,462.86,1,0.05,Cash
+10079,2023-09-09,2520,30,Female,Kenya,Fashion,393.91,4,0,Transfer
+10080,2023-07-09,2462,18,,Ghana,Beauty,166.26,1,,Cash
+10081,2023-10-23,2039,40,Female,Kenya,Fashion,409.42,2,,Card
+10082,2023-08-01,2536,30,,Ghana,electronics ,207.35,3,0.05,card
+10083,2023-07-27,2260,35,male ,South Africa,Beauty,166.75,4,0,Card
+10084,2023-08-25,2394,35,,Nigeria,Home,373.71,1,0.1,Card
+10085,2023-12-04,2225,55,,Ghana,Fashion,44.43,2,,card
+10086,2023-02-22,2123,18,Male,South Africa,Fashion,29.04,4,0.05,Transfer
+10087,2023-10-07,2037,22,male ,Nigeria,electronics ,226.74,4,0.1,Card
+10088,2023-08-05,2327,40,FEMALE,Ghana,electronics ,225.59,4,,Card
+10089,2023-09-09,2250,35,Male,Kenya,Electronics,448.34,3,0,Transfer
+10090,2023-07-07,2175,45,FEMALE,Kenya,Electronics,67.45,1,,Card
+10091,2023-02-10,2453,25,Female,Kenya,Electronics,66.03,1,0.1,Card
+10092,2023-06-06,2036,25,FEMALE,South Africa,electronics ,77.99,4,0.1,Cash
+10093,2023-01-15,2315,,,Kenya,Electronics,19.72,4,0,Transfer
+10094,2023-10-28,2592,22,FEMALE, nigeria,Electronics,40.51,4,0,Card
+10095,2023-03-06,2113,25,Male,Nigeria,Home,331.64,2,0.05,Card
+10096,2023-12-11,2039,,Male,South Africa,Electronics,218.63,4,0,card
+10097,2023-11-23,2300,18,FEMALE,Kenya,Fashion,382.98,3,0.05,card
+10098,2023-01-09,2223,35,Male,Nigeria,electronics ,496.34,1,0.1,card
+10099,2023-12-10,2317,35,Male,Ghana,Beauty,331.22,3,0.1,Card
+10100,2023-05-09,2348,45,FEMALE,Kenya,Home,29.98,4,,Card
+10101,2023-05-16,2114,30,male ,Nigeria,electronics ,56.76,2,,card
+10102,2023-03-04,2322,25,male , nigeria,electronics ,441.1,4,0.05,Cash
+10103,2023-05-19,2567,18,Female,Ghana,Fashion,266.11,4,0,Cash
+10104,2023-03-22,2039,50,Male, nigeria,Electronics,413.29,4,0,Cash
+10105,2023-06-12,2039,25,FEMALE,Nigeria,Fashion,429.02,4,,Cash
+10106,2023-10-16,2288,22,Male, nigeria,Electronics,464.2,4,0.1,Transfer
+10107,2023-09-18,2261,30,,Nigeria,Electronics,475.17,1,0.05,card
+10108,2023-08-19,2215,25,Male,Nigeria,electronics ,279.64,3,0.1,Card
+10109,2023-02-10,2146,18,Male, nigeria,Electronics,173.8,2,0.1,card
+10110,2023-01-28,2335,25,male ,Nigeria,Home,481.12,4,0,Cash
+10111,2023-05-15,2167,22,FEMALE,Kenya,Home,275.97,2,0.05,Card
+10112,2023-07-20,2091,50,Male,Nigeria,Home,36.81,1,0.1,Transfer
+10113,2023-11-24,2352,40,male ,South Africa,electronics ,323.17,3,,card
+10114,2023-09-25,2570,55,Female,Nigeria,Fashion,295.9,4,,Card
+10115,2023-02-02,2570,50,male ,South Africa,Beauty,448.42,1,0,Card
+10116,2023-02-17,2362,,male ,Nigeria,Electronics,328.33,1,,Cash
+10117,2023-03-03,2556,25,male ,Nigeria,Beauty,177.78,3,,Cash
+10118,2023-08-04,2344,35,Male, nigeria,Fashion,483.28,4,0.1,card
+10119,2023-10-20,2169,45,Male,Kenya,Fashion,,3,,Transfer
+10120,2023-04-09,2355,35,Female,Kenya,electronics ,317.06,3,,Card
+10121,2023-06-21,2190,50,,Ghana,Home,150.0,2,0.1,Cash
+10122,2023-12-26,2421,35,, nigeria,Home,189.9,2,0,card
+10123,2023-08-02,2006,18,, nigeria,Fashion,336.64,3,0,Cash
+10124,2023-02-04,2132,35,Female,Kenya,electronics ,40.63,2,0.05,card
+10125,2023-08-15,2556,30,, nigeria,electronics ,132.06,1,,Cash
+10126,2023-04-11,2030,40,,Kenya,Electronics,358.38,3,0.1,Transfer
+10127,2023-05-11,2534,25,male , nigeria,Home,242.61,4,0.05,Card
+10128,2023-09-14,2425,35,Male,Nigeria,Fashion,204.18,4,0,Cash
+10129,2023-01-05,2393,22,Male,Kenya,Beauty,79.97,1,0,Card
+10130,2023-08-06,2362,40,male ,Kenya,Home,,4,0.1,card
+10131,2023-09-12,2436,40,male ,South Africa,Electronics,386.49,4,0.05,Transfer
+10132,2023-12-25,2550,35,male , nigeria,electronics ,135.69,3,0.05,Card
+10133,2023-10-10,2081,40,Male, nigeria,Fashion,7.67,1,0.1,Cash
+10134,2023-07-26,2355,45,,Kenya,Home,335.91,3,0.1,Card
+10135,2023-01-15,2257,35,male ,Nigeria,Beauty,486.45,1,0.05,Card
+10136,2023-12-12,2588,18,Female,Nigeria,Electronics,305.38,3,0,card
+10137,2023-02-11,2523,50,male ,Nigeria,Electronics,64.36,3,,Transfer
+10138,2023-06-28,2294,30,FEMALE, nigeria,Home,163.76,2,0,Transfer
+10139,2023-03-04,2223,55,male ,South Africa,Beauty,434.48,4,0.1,Card
+10140,2023-12-18,2524,,Male,Kenya,Electronics,120.12,1,0.05,Card
+10141,2023-08-19,2045,40,male ,Ghana,Fashion,305.81,4,0.05,card
+10142,2023-08-29,2112,18,FEMALE,South Africa,Electronics,,2,,Card
+10143,2023-02-21,2232,25,Female,Ghana,Beauty,107.88,1,0.05,card
+10144,2023-04-06,2016,25,,South Africa,electronics ,407.64,2,,Transfer
+10145,2023-08-10,2359,,male ,Nigeria,electronics ,372.7,4,0,Transfer
+10146,2023-08-19,2222,30,FEMALE, nigeria,Home,332.49,3,0,card
+10147,2023-08-25,2447,40,FEMALE,Ghana,Beauty,121.99,2,0.05,Card
+10148,2023-05-23,2364,45,Female,South Africa,Electronics,53.44,2,0.05,Transfer
+10149,2023-06-20,2325,,Male, nigeria,Electronics,290.2,3,0.1,Cash
+10150,2023-01-29,2466,30,male ,Ghana,electronics ,279.07,4,0.1,card
+10151,2023-02-05,2413,40,FEMALE,Kenya,electronics ,98.25,2,0.05,Transfer
+10152,2023-01-13,2454,18,Female,South Africa,Fashion,32.84,4,0.05,Transfer
+10153,2023-06-09,2585,50,,Kenya,electronics ,44.95,3,0,Transfer
+10154,2023-11-23,2232,45,FEMALE,Nigeria,Fashion,496.42,1,0.05,Cash
+10155,2023-07-06,2223,55,Female,Kenya,Electronics,392.87,2,0.1,Cash
+10156,2023-08-31,2411,25,Male,Kenya,Fashion,461.38,4,0,Cash
+10157,2023-03-27,2571,22,Male,South Africa,Fashion,101.55,3,,Card
+10158,2023-10-11,2334,18,FEMALE,Nigeria,Home,480.48,3,0.1,card
+10159,2023-03-07,2221,25,FEMALE,Kenya,electronics ,75.61,2,0.1,Card
+10160,2023-06-19,2036,35,male , nigeria,Fashion,257.0,1,0,Cash
+10161,2023-02-14,2277,22,Female,Ghana,Electronics,415.7,2,,card
+10162,2023-03-03,2195,25,FEMALE,Kenya,Beauty,178.15,4,0.1,Card
+10163,2023-05-14,2483,30,male ,Nigeria,Fashion,215.29,3,0.05,Card
+10164,2023-10-11,2241,45,male ,Kenya,electronics ,,1,0.1,Card
+10165,2023-01-28,2323,25,FEMALE,Ghana,Home,65.85,4,0,Cash
+10166,2023-04-18,2191,55,Male,Nigeria,Electronics,311.69,2,0,Transfer
+10167,2023-02-13,2016,50,Female,South Africa,Home,339.39,3,0,card
+10168,2023-12-06,2523,30,Female,Nigeria,Beauty,389.78,2,0.1,Cash
+10169,2023-10-13,2400,18,Male,South Africa,Fashion,280.56,1,,card
+10170,2023-11-27,2021,18,FEMALE,Nigeria,Fashion,324.65,1,0.05,Cash
+10171,2023-05-08,2473,18,Female,Ghana,electronics ,11.69,1,0,Card
+10172,2023-12-14,2119,18,FEMALE,Ghana,Fashion,85.27,1,,Card
+10173,2023-08-19,2209,50,FEMALE,Nigeria,Electronics,492.53,1,0.05,Transfer
+10174,2023-07-09,2305,25,male ,Kenya,Beauty,42.62,2,0,Transfer
+10175,2023-08-13,2269,40,Male,Ghana,Home,341.0,1,0.05,card
+10176,2023-10-10,2284,25,FEMALE,South Africa,Beauty,92.16,1,0.05,Transfer
+10177,2023-05-01,2226,35,,South Africa,Fashion,359.78,3,,Transfer
+10178,2023-04-26,2380,45,Male, nigeria,Home,354.47,1,0.05,card
+10179,2023-08-21,2459,22,Female,South Africa,electronics ,120.93,3,0,Cash
+10180,2023-09-16,2006,40,male , nigeria,Beauty,138.47,3,,Transfer
+10181,2023-12-25,2028,40,Female,Nigeria,Home,329.11,3,0.1,Cash
+10182,2023-07-17,2032,25,Female,Nigeria,Home,198.09,2,0.1,Card
+10183,2023-05-17,2078,40,Male,Nigeria,Home,101.3,2,,Transfer
+10184,2023-11-14,2458,,Female,Kenya,Electronics,367.18,4,0.1,Card
+10185,2023-06-14,2569,,FEMALE,Kenya,Beauty,81.3,4,0.05,Card
+10186,2023-08-13,2537,35,Female, nigeria,Home,428.54,3,0,Cash
+10187,2023-11-03,2481,22,male ,South Africa,Beauty,259.76,2,0.05,card
+10188,2023-08-22,2429,55,male ,South Africa,Home,57.32,1,,Transfer
+10189,2023-06-21,2284,50,,Nigeria,electronics ,348.57,4,0,Cash
+10190,2023-06-01,2515,25,male ,Ghana,electronics ,261.99,2,,card
+10191,2023-11-11,2098,50,Female,Kenya,electronics ,152.54,1,,Card
+10192,2023-06-09,2396,55,male ,Kenya,Fashion,214.16,1,,Transfer
+10193,2023-04-06,2488,25,Male,Nigeria,Home,152.68,2,0.05,Card
+10194,2023-08-21,2038,25,male ,Kenya,Fashion,135.2,4,0,Card
+10195,2023-06-29,2270,22,FEMALE,Nigeria,Beauty,85.99,2,0,Transfer
+10196,2023-04-23,2156,50,Male, nigeria,Fashion,184.57,4,0,card
+10197,2023-11-14,2074,,,South Africa,Beauty,129.24,3,0.05,card
+10198,2023-02-21,2129,18,FEMALE,Ghana,Beauty,343.3,2,0.1,Transfer
+10199,2023-09-25,2083,50,Female,South Africa,Beauty,343.52,2,0.05,Transfer
+10200,2023-10-22,2021,45,Female,South Africa,Fashion,253.41,4,0.05,Cash
+10201,2023-04-23,2458,45,Female, nigeria,Home,390.08,4,,Cash
+10202,2023-04-11,2538,25,FEMALE,Kenya,Fashion,,2,0,Card
+10203,2023-04-23,2381,18,FEMALE,Ghana,Home,291.98,1,0,Transfer
+10204,2023-03-22,2439,30,FEMALE,Kenya,Home,311.37,1,0.1,card
+10205,2023-07-06,2020,55,Male,South Africa,Beauty,145.03,1,0.1,Card
+10206,2023-04-23,2302,35,Male,Nigeria,Fashion,,3,,Card
+10207,2023-01-02,2083,18,Female,South Africa,Home,16.98,3,0,Card
+10208,2023-05-10,2452,35,male ,Kenya,electronics ,177.56,4,0.1,Card
+10209,2023-08-08,2386,50,Female,South Africa,Home,362.29,3,0.1,card
+10210,2023-02-23,2506,50,,Nigeria,electronics ,44.64,1,0,Card
+10211,2023-12-09,2256,35,Male, nigeria,Fashion,95.67,2,0.05,Transfer
+10212,2023-08-12,2569,55,FEMALE,Kenya,Fashion,296.7,3,0.1,Cash
+10213,2023-08-13,2526,18,Male,South Africa,Fashion,282.2,3,0,card
+10214,2023-05-06,2161,30,FEMALE,Kenya,Home,370.77,1,0.1,Transfer
+10215,2023-05-10,2162,25,, nigeria,Electronics,407.24,3,,Transfer
+10216,2023-02-22,2523,22,,South Africa,Home,68.65,4,0.1,Transfer
+10217,2023-06-21,2270,50,Male,South Africa,Home,14.1,2,0,Cash
+10218,2023-08-06,2491,45,FEMALE,Kenya,Beauty,,1,0.1,Cash
+10219,2023-06-09,2207,55,,Kenya,Beauty,154.19,4,,Cash
+10220,2023-07-17,2538,22,Female,Nigeria,Home,314.86,1,,Transfer
+10221,2023-09-04,2583,30,Female, nigeria,electronics ,79.52,4,0.1,Cash
+10222,2023-11-20,2059,40,FEMALE,Nigeria,Beauty,237.17,2,0.1,Card
+10223,2023-07-22,2429,25,Male,South Africa,Home,254.69,2,,Cash
+10224,2023-07-03,2308,50,,Kenya,Electronics,294.61,4,,card
+10225,2023-05-03,2519,25,Male,South Africa,electronics ,,4,0.05,Transfer
+10226,2023-09-12,2590,22,Female,South Africa,Fashion,250.37,4,0.05,Transfer
+10227,2023-10-21,2026,25,,Ghana,Home,169.7,4,,Card
+10228,2023-10-07,2561,40,Male,Ghana,Home,40.23,4,0.1,Cash
+10229,2023-11-21,2198,22,male ,South Africa,electronics ,49.31,4,0,Cash
+10230,2023-04-08,2386,50,FEMALE,Kenya,Beauty,219.72,2,0.1,card
+10231,2023-07-17,2348,18,FEMALE,South Africa,Beauty,181.12,4,0.1,Card
+10232,2023-08-28,2535,45,male ,Ghana,Beauty,260.49,3,0.05,card
+10233,2023-05-24,2377,22,Female,Kenya,Fashion,155.89,2,0.05,card
+10234,2023-04-07,2557,,,South Africa,electronics ,345.52,1,0.05,Transfer
+10235,2023-07-20,2526,40,FEMALE, nigeria,electronics ,432.66,2,,Transfer
+10236,2023-05-04,2152,22,male , nigeria,Beauty,152.94,1,,Cash
+10237,2023-07-06,2205,22,male ,South Africa,Beauty,100.53,1,0.1,Cash
+10238,2023-11-22,2454,,Female,Kenya,Electronics,62.51,3,0.1,card
+10239,2023-12-15,2272,50,Female,South Africa,Electronics,310.05,4,0,Cash
+10240,2023-09-16,2235,22,Male,South Africa,Home,224.71,4,0.1,card
+10241,2023-05-28,2520,45,FEMALE,Ghana,Home,98.07,2,0.1,Cash
+10242,2023-09-09,2500,25,Male, nigeria,electronics ,328.3,4,0.05,Cash
+10243,2023-12-12,2116,50,male ,Ghana,electronics ,78.5,3,0.05,Transfer
+10244,2023-05-27,2385,45,,Ghana,Fashion,279.38,2,0.05,Transfer
+10245,2023-05-28,2343,50,,South Africa,Fashion,265.94,2,0.05,Transfer
+10246,2023-12-18,2583,45,Female,Ghana,Electronics,368.44,2,0.05,Transfer
+10247,2023-07-18,2394,40,, nigeria,Home,32.28,4,0,Card
+10248,2023-11-04,2063,45,,Ghana,Electronics,444.5,4,0,Transfer
+10249,2023-05-08,2071,35,, nigeria,Electronics,352.98,4,0,Card
+10250,2023-02-08,2273,45,male ,Ghana,Home,111.98,2,0.05,Transfer
+10251,2023-12-04,2319,18,, nigeria,Fashion,95.79,2,,Cash
+10252,2023-12-26,2337,18,,Ghana,Home,218.67,1,0.05,card
+10253,2023-05-09,2365,55,,Ghana,Beauty,409.69,1,0.05,Cash
+10254,2023-09-24,2494,35,Male,Kenya,Beauty,422.26,4,0,Cash
+10255,2023-05-31,2165,35,male , nigeria,Beauty,262.63,2,0.05,Card
+10256,2023-10-25,2543,25,Female, nigeria,electronics ,431.1,4,0,Transfer
+10257,2023-04-09,2010,35,Male, nigeria,Fashion,7.69,4,0.05,card
+10258,2023-09-20,2300,25,FEMALE,Nigeria,Fashion,22.41,1,0.1,card
+10259,2023-09-09,2101,55,male ,Ghana,electronics ,456.35,3,,Transfer
+10260,2023-05-24,2424,55,male , nigeria,Electronics,388.79,4,,Card
+10261,2023-12-12,2391,40,FEMALE,Nigeria,Beauty,228.1,3,0,Card
+10262,2023-04-22,2213,18,FEMALE,Kenya,Beauty,378.04,3,0.1,Card
+10263,2023-03-01,2087,45,FEMALE, nigeria,Electronics,478.04,2,,card
+10264,2023-01-02,2552,45,Female, nigeria,Home,387.18,2,0,Card
+10265,2023-10-31,2400,,,Nigeria,Home,421.97,4,0.05,Card
+10266,2023-09-11,2587,,male ,Ghana,Fashion,381.5,1,0.05,card
+10267,2023-05-20,2045,30,,Kenya,electronics ,88.26,1,0.1,card
+10268,2023-02-06,2462,50,, nigeria,Fashion,417.62,4,,Cash
+10269,2023-06-09,2591,40,FEMALE,Ghana,Home,101.58,4,0.05,card
+10270,2023-01-09,2309,30,Female,Kenya,Electronics,446.84,1,0,Transfer
+10271,2023-08-21,2085,30,Male,South Africa,Fashion,232.03,3,0.05,card
+10272,2023-04-09,2091,22,Female,South Africa,Beauty,340.1,4,0.05,card
+10273,2023-05-27,2241,22,,Kenya,Beauty,251.13,3,,Card
+10274,2023-10-31,2001,30,Female,Nigeria,Electronics,51.53,4,,Cash
+10275,2023-07-27,2224,35,FEMALE,Kenya,Home,148.91,4,0,Card
+10276,2023-05-11,2588,50,Male,Kenya,Beauty,491.95,3,0.1,Cash
+10277,2023-06-01,2115,40,FEMALE,Nigeria,Beauty,480.55,3,0.1,Card
+10278,2023-02-23,2102,30,Male,Nigeria,electronics ,163.64,1,0.05,Transfer
+10279,2023-04-30,2193,45,,Ghana,Fashion,498.17,4,0,Card
+10280,2023-06-10,2165,50,Male,Ghana,Home,423.55,2,0.1,Card
+10281,2023-04-26,2089,22,Male,Nigeria,Fashion,307.42,2,0.1,Transfer
+10282,2023-03-16,2121,45,Male,South Africa,Home,24.86,4,0.05,Transfer
+10283,2023-04-23,2142,22,Female,South Africa,Beauty,451.22,4,0,card
+10284,2023-04-14,2105,22,Female,Kenya,electronics ,280.93,4,0.1,Card
+10285,2023-12-06,2427,50,, nigeria,Fashion,434.9,3,,Transfer
+10286,2023-09-11,2304,22,Male,Kenya,Beauty,418.04,2,,Transfer
+10287,2023-08-15,2316,55,male ,Kenya,Home,417.34,2,0.05,card
+10288,2023-04-22,2008,18,, nigeria,Fashion,350.6,2,0.05,Cash
+10289,2023-04-09,2072,55,Male,Nigeria,Fashion,149.25,4,0.05,Transfer
+10290,2023-06-02,2358,18,Male,South Africa,Beauty,171.4,3,0.05,Transfer
+10291,2023-12-15,2222,,Female,Kenya,Fashion,157.69,4,0.1,Card
+10292,2023-12-04,2415,,, nigeria,electronics ,14.92,1,0,card
+10293,2023-07-13,2552,22,Male,Ghana,electronics ,293.37,1,0.05,Card
+10294,2023-11-06,2369,40,Male,Kenya,Beauty,,2,0.05,Cash
+10295,2023-06-12,2263,40,,South Africa,Home,427.66,4,0.1,card
+10296,2023-07-27,2317,18,male ,Nigeria,Beauty,74.38,1,0.05,Card
+10297,2023-06-18,2083,45,,Kenya,electronics ,274.37,1,0.05,Transfer
+10298,2023-06-10,2317,50,,Kenya,Electronics,8.96,4,0,Transfer
+10299,2023-03-09,2110,22,male , nigeria,Electronics,52.07,3,,card
+10300,2023-10-16,2250,50,,Ghana,Fashion,31.83,4,0.05,Transfer
+10301,2023-10-04,2382,55,Male,Ghana,Fashion,364.11,4,0.1,Card
+10302,2023-10-31,2006,40,,Nigeria,Electronics,45.12,3,0,card
+10303,2023-05-15,2458,35,male ,South Africa,electronics ,359.64,2,0.1,Transfer
+10304,2023-07-14,2083,55,FEMALE,Nigeria,Fashion,128.56,2,0,Transfer
+10305,2023-05-08,2207,55,,Kenya,Beauty,439.47,2,0,Cash
+10306,2023-02-02,2389,18,Female,Kenya,Beauty,407.51,3,0.05,Cash
+10307,2023-06-25,2313,25,Male,Ghana,electronics ,479.13,1,0.05,card
+10308,2023-01-22,2021,55,Male,South Africa,Fashion,442.46,3,0.05,Cash
+10309,2023-08-26,2409,22,Female, nigeria,Beauty,467.0,4,,Card
+10310,2023-06-07,2514,30,Female,South Africa,Fashion,430.08,3,,Transfer
+10311,2023-02-07,2126,30,,Kenya,Fashion,348.22,1,0.1,Transfer
+10312,2023-08-18,2013,22,Female, nigeria,Beauty,89.28,1,0.05,Transfer
+10313,2023-12-31,2011,25,FEMALE,South Africa,Electronics,139.5,4,,card
+10314,2023-02-20,2086,25,male ,South Africa,Beauty,110.3,2,0.05,card
+10315,2023-09-21,2523,18,Female, nigeria,electronics ,303.77,1,,Cash
+10316,2023-10-10,2536,40,Female,Kenya,Home,254.29,1,,Transfer
+10317,2023-01-27,2300,50,FEMALE,South Africa,Beauty,434.2,1,0,Transfer
+10318,2023-08-14,2242,25,Male, nigeria,Fashion,476.57,4,0.05,Transfer
+10319,2023-10-04,2121,35,Male,Kenya,Fashion,205.41,1,0.05,Transfer
+10320,2023-10-13,2146,18,, nigeria,Beauty,255.64,2,,Transfer
+10321,2023-04-07,2566,,FEMALE, nigeria,Home,485.9,4,0.05,Card
+10322,2023-10-11,2355,45,male ,South Africa,Beauty,141.74,2,,Transfer
+10323,2023-11-13,2308,,male ,Kenya,Home,397.23,1,0.05,Card
+10324,2023-10-31,2287,18,FEMALE,South Africa,Home,116.49,1,0,Transfer
+10325,2023-05-27,2306,55,male ,Nigeria,electronics ,342.32,2,0.05,card
+10326,2023-01-04,2593,50,Male,Nigeria,Fashion,130.54,4,0,card
+10327,2023-02-04,2548,45,male ,Kenya,Fashion,442.45,4,0.1,Card
+10328,2023-07-11,2351,,male , nigeria,Home,282.93,2,0.05,Transfer
+10329,2023-02-18,2311,45,FEMALE,South Africa,Fashion,97.04,1,0.05,card
+10330,2023-01-17,2058,35,FEMALE,South Africa,Electronics,116.06,3,0.05,card
+10331,2023-06-21,2034,35,male ,Kenya,Home,249.46,2,0,Transfer
+10332,2023-08-08,2444,35,Female,Kenya,Fashion,480.99,2,0.05,Transfer
+10333,2023-06-07,2092,18,FEMALE,Nigeria,Electronics,385.97,2,0.05,card
+10334,2023-02-15,2206,50,,Ghana,electronics ,246.71,1,,Transfer
+10335,2023-01-06,2352,18,,Kenya,Fashion,172.17,4,0.1,Cash
+10336,2023-04-09,2331,30,Male,Ghana,Electronics,276.89,1,0,Transfer
+10337,2023-08-21,2158,55,male ,Kenya,Beauty,375.44,2,,card
+10338,2023-02-06,2023,55,Female, nigeria,Beauty,,1,0,card
+10339,2023-10-07,2403,35,Male, nigeria,Electronics,165.68,1,,Card
+10340,2023-12-15,2515,30,male ,Nigeria,Home,361.97,2,0.1,Cash
+10341,2023-10-29,2363,25,FEMALE,Nigeria,Home,330.61,1,,card
+10342,2023-06-30,2381,25,,Ghana,Fashion,479.76,3,0,Cash
+10343,2023-04-05,2531,35,Female,Kenya,Beauty,465.89,1,0.05,Transfer
+10344,2023-04-09,2151,,,South Africa,Home,395.74,1,0.05,card
+10345,2023-07-07,2561,18,FEMALE,Nigeria,Home,363.08,4,0.1,Card
+10346,2023-04-26,2419,35,male ,South Africa,Beauty,140.65,4,0,card
+10347,2023-07-10,2249,40,FEMALE,South Africa,electronics ,423.75,2,0,Card
+10348,2023-09-10,2116,45,FEMALE,Kenya,Home,216.62,2,0,Cash
+10349,2023-06-10,2511,55,,Ghana,Electronics,,4,0.1,Card
+10350,2023-09-13,2577,25,Female,Kenya,Fashion,195.16,3,0.05,Transfer
+10351,2023-11-19,2334,22,FEMALE,Nigeria,Home,418.79,1,,Transfer
+10352,2023-05-08,2417,25,,South Africa,Home,78.57,3,0.1,Transfer
+10353,2023-01-18,2294,55,Female,Kenya,electronics ,230.8,3,,card
+10354,2023-10-08,2370,45,male ,Kenya,Electronics,248.72,4,0.05,Transfer
+10355,2023-08-11,2185,55,male ,Kenya,Fashion,23.13,2,0.1,Transfer
+10356,2023-02-23,2245,22,Male,Nigeria,Home,101.89,1,0.05,card
+10357,2023-02-27,2267,35,,Ghana,Fashion,414.24,2,,Cash
+10358,2023-11-19,2236,30,Female,Kenya,Beauty,416.23,3,0,Transfer
+10359,2023-12-26,2529,22,FEMALE,Nigeria,Home,149.75,3,0,Transfer
+10360,2023-06-23,2551,55,male ,South Africa,Home,438.07,2,,card
+10361,2023-10-07,2020,55,Female, nigeria,Beauty,387.03,2,0,Cash
+10362,2023-04-24,2519,40,,Nigeria,electronics ,211.86,4,,Cash
+10363,2023-10-15,2099,40,Male, nigeria,Home,375.46,2,0.1,Cash
+10364,2023-12-08,2477,50,male ,Kenya,Fashion,480.86,2,0.1,card
+10365,2023-05-31,2598,40,Female,Kenya,Electronics,232.19,4,0.1,Card
+10366,2023-05-07,2297,18,Female,Nigeria,Fashion,123.02,2,0,Card
+10367,2023-06-04,2525,30,Female, nigeria,electronics ,471.2,3,0.05,Transfer
+10368,2023-09-30,2333,45,,Kenya,Electronics,303.85,2,0,Transfer
+10369,2023-04-14,2001,22,,South Africa,Fashion,57.11,1,0,Transfer
+10370,2023-10-26,2374,55,,Ghana,Fashion,288.48,3,0.05,Card
+10371,2023-09-03,2292,50,FEMALE,Ghana,Beauty,252.79,4,0.05,card
+10372,2023-06-25,2552,50,Female,Kenya,electronics ,428.52,3,0.05,Transfer
+10373,2023-02-08,2317,45,male , nigeria,Beauty,267.69,4,0.05,card
+10374,2023-06-19,2501,30,,Kenya,Electronics,131.34,1,0,Transfer
+10375,2023-09-04,2380,22,, nigeria,Beauty,339.44,1,,card
+10376,2023-01-26,2013,25,Female,South Africa,electronics ,273.57,3,0.1,card
+10377,2023-12-21,2503,40,, nigeria,Home,120.36,2,,Card
+10378,2023-11-02,2230,35,FEMALE,Kenya,Home,288.95,3,0,card
+10379,2023-01-13,2083,50,FEMALE,South Africa,Electronics,411.66,3,0.05,Cash
+10380,2023-11-12,2129,40,,Nigeria,Home,19.14,1,0.1,Card
+10381,2023-11-09,2144,40,Female,Ghana,Beauty,317.27,4,0.1,Transfer
+10382,2023-02-05,2027,18,Female,Kenya,Electronics,178.04,3,,Card
+10383,2023-06-22,2065,30,Female,Kenya,electronics ,149.87,2,0,Cash
+10384,2023-01-20,2162,35,Male,Kenya,Electronics,199.33,1,0,Cash
+10385,2023-11-17,2228,25,,South Africa,Electronics,174.3,3,0,card
+10386,2023-09-21,2260,55,Female,Nigeria,Fashion,416.96,3,0.1,Cash
+10387,2023-05-22,2448,18,FEMALE, nigeria,Fashion,141.02,2,,Cash
+10388,2023-05-23,2423,40,male ,Nigeria,Electronics,,3,0.1,Cash
+10389,2023-04-02,2459,40,male ,South Africa,Home,51.56,3,0.1,Cash
+10390,2023-12-20,2300,,Female,Kenya,Fashion,475.94,3,0.05,Transfer
+10391,2023-11-18,2302,35,male ,Ghana,electronics ,313.05,3,,Transfer
+10392,2023-10-15,2286,35,male ,Kenya,Beauty,354.83,2,0.05,Card
+10393,2023-08-03,2394,,Male, nigeria,Fashion,152.53,3,0,card
+10394,2023-12-08,2009,35,FEMALE,Ghana,Electronics,208.99,3,0.1,Transfer
+10395,2023-02-20,2269,40,FEMALE,Kenya,Home,115.77,3,,Cash
+10396,2023-06-02,2591,50,Male,Ghana,Beauty,466.61,1,0,card
+10397,2023-07-05,2360,22,Male,Nigeria,Fashion,246.61,2,,Transfer
+10398,2023-03-04,2256,40,male ,South Africa,Home,317.07,1,0.1,Card
+10399,2023-07-09,2132,18,,Kenya,Home,368.46,1,,Cash
+10400,2023-05-05,2275,30,male , nigeria,Home,188.7,2,0,card
+10401,2023-05-30,2512,,Male,Nigeria,Electronics,361.45,1,0.05,Transfer
+10402,2023-11-10,2312,25,FEMALE,Kenya,electronics ,339.62,1,0.1,card
+10403,2023-02-27,2575,55,male ,Nigeria,Home,354.3,1,0.05,Transfer
+10404,2023-12-08,2283,25,, nigeria,Beauty,247.17,2,0.1,Card
+10405,2023-11-01,2120,40,male ,Kenya,Fashion,194.55,3,0,Cash
+10406,2023-06-29,2106,18,Female, nigeria,Beauty,114.93,4,0.1,Card
+10407,2023-06-19,2203,40,male ,Ghana,Electronics,413.19,4,0.05,Cash
+10408,2023-11-22,2164,30,Male, nigeria,Electronics,306.13,2,0.1,Cash
+10409,2023-09-28,2304,50,FEMALE,Ghana,Beauty,224.95,4,0,card
+10410,2023-02-23,2496,55,FEMALE,Kenya,electronics ,472.28,2,0.1,Transfer
+10411,2023-04-11,2555,30,Male,Ghana,Electronics,28.68,2,0.05,Card
+10412,2023-09-21,2155,,Female,Kenya,Electronics,425.84,4,0,Card
+10413,2023-02-22,2366,,Male,Kenya,Beauty,498.8,1,0.05,Card
+10414,2023-03-01,2250,40,male ,South Africa,Electronics,444.04,3,0.1,card
+10415,2023-04-18,2333,18,Male,Kenya,electronics ,406.17,4,,card
+10416,2023-01-05,2510,30,Male,Ghana,electronics ,190.28,4,0.05,card
+10417,2023-04-13,2292,45,Female,South Africa,electronics ,119.5,4,0.1,Cash
+10418,2023-07-15,2019,18,male ,South Africa,Fashion,368.75,4,,Card
+10419,2023-09-19,2281,50,,Kenya,electronics ,155.76,2,,Cash
+10420,2023-12-31,2000,,, nigeria,electronics ,92.14,2,0,Card
+10421,2023-12-16,2118,40,FEMALE, nigeria,Fashion,394.33,3,,Card
+10422,2023-02-16,2034,35,Male,South Africa,Home,159.71,3,0.05,Transfer
+10423,2023-12-21,2197,,FEMALE,Kenya,Electronics,457.65,4,0.05,Card
+10424,2023-11-07,2484,55,Female, nigeria,electronics ,421.11,4,,card
+10425,2023-11-04,2058,22,,Kenya,Electronics,424.58,4,0.1,card
+10426,2023-05-24,2160,35,Male,Kenya,Beauty,386.93,3,0.05,card
+10427,2023-09-26,2205,40,Female,South Africa,Electronics,441.04,4,0.05,Transfer
+10428,2023-05-04,2011,45,Female,South Africa,Fashion,403.84,1,0,Transfer
+10429,2023-04-16,2489,35,Male,Nigeria,Electronics,303.24,3,0.1,Cash
+10430,2023-06-07,2275,55,Female, nigeria,Electronics,151.43,1,,Card
+10431,2023-05-27,2241,18,Male, nigeria,Electronics,444.66,4,0.1,Card
+10432,2023-05-25,2215,45,Male, nigeria,Home,421.1,2,0,card
+10433,2023-04-30,2250,,male ,Ghana,Home,,1,0,card
+10434,2023-11-15,2125,45,FEMALE,Kenya,Beauty,24.34,3,0.1,card
+10435,2023-10-02,2216,30,Female,South Africa,Fashion,321.08,1,0,card
+10436,2023-04-02,2305,55,Female, nigeria,Electronics,30.05,3,0,card
+10437,2023-02-27,2184,35,male ,Nigeria,Electronics,463.51,4,0,card
+10438,2023-12-12,2038,30,male , nigeria,Electronics,481.01,1,0.1,Card
+10439,2023-08-17,2222,45,male ,Kenya,Electronics,98.8,2,0,Transfer
+10440,2023-04-27,2183,30,,Kenya,Home,339.81,1,,card
+10441,2023-11-14,2494,25,,South Africa,Beauty,50.67,2,,Card
+10442,2023-10-06,2426,55,,Ghana,electronics ,366.11,3,0.05,card
+10443,2023-05-07,2177,50,Male,South Africa,Fashion,176.91,4,,Cash
+10444,2023-05-09,2427,18,Female, nigeria,Electronics,342.12,4,0.05,Cash
+10445,2023-02-27,2293,45,FEMALE,Nigeria,Beauty,189.57,2,0.1,Card
+10446,2023-05-02,2150,55,Male,South Africa,electronics ,77.06,3,0,Transfer
+10447,2023-01-01,2383,50,Female,Ghana,Beauty,206.02,4,,Cash
+10448,2023-08-27,2307,50,Female,South Africa,Home,60.77,3,0.05,Cash
+10449,2023-10-17,2335,40,male ,Kenya,electronics ,290.56,2,0.1,Transfer
+10450,2023-04-06,2374,30,male , nigeria,Beauty,25.27,2,0.05,Cash
+10451,2023-05-06,2007,50,Male, nigeria,Home,266.02,1,0,card
+10452,2023-04-28,2340,25,male , nigeria,Beauty,443.75,4,,Transfer
+10453,2023-02-17,2128,55,Female, nigeria,Beauty,419.75,4,0.1,Cash
+10454,2023-03-30,2351,22,male , nigeria,electronics ,441.98,1,0.05,Transfer
+10455,2023-08-25,2357,22,, nigeria,Home,461.41,2,0.1,card
+10456,2023-09-29,2516,45,male ,Nigeria,Electronics,56.74,2,0.05,Cash
+10457,2023-07-08,2494,,Female,Ghana,Fashion,,2,0.05,Card
+10458,2023-07-11,2085,30,Male, nigeria,electronics ,280.72,2,0,Cash
+10459,2023-03-10,2174,,FEMALE,Ghana,Home,447.52,3,0,Cash
+10460,2023-10-05,2192,50,male , nigeria,Beauty,487.3,4,0.05,card
+10461,2023-12-15,2310,55,Female,South Africa,Home,27.9,4,,Card
+10462,2023-09-04,2118,45,FEMALE, nigeria,Fashion,181.11,2,0.1,Card
+10463,2023-03-17,2217,35,FEMALE,Kenya,Fashion,110.38,2,0.1,Card
+10464,2023-06-03,2426,50,,Nigeria,Electronics,379.2,2,0,card
+10465,2023-05-24,2413,30,FEMALE,South Africa,Electronics,321.9,4,,card
+10466,2023-03-27,2113,22,Female,South Africa,Fashion,64.34,4,0.05,card
+10467,2023-07-04,2144,40,Female,Kenya,electronics ,244.34,2,0,card
+10468,2023-10-12,2537,55,male , nigeria,electronics ,344.29,3,0.05,card
+10469,2023-08-08,2302,18,male ,Nigeria,Beauty,390.61,1,0.05,Card
+10470,2023-03-10,2587,,male ,South Africa,Electronics,14.93,1,0,Transfer
+10471,2023-02-16,2344,45,FEMALE,Nigeria,Beauty,445.78,1,,card
+10472,2023-04-04,2000,,FEMALE,South Africa,Electronics,286.79,4,0.1,Transfer
+10473,2023-08-26,2146,55,, nigeria,Fashion,406.9,4,0,Cash
+10474,2023-07-23,2286,,male ,South Africa,electronics ,404.93,1,,Cash
+10475,2023-08-06,2052,55,Male,South Africa,electronics ,98.98,1,0.05,card
+10476,2023-12-07,2303,,,Ghana,Fashion,59.54,3,0,Cash
+10477,2023-02-08,2068,25,Male, nigeria,Beauty,362.04,4,0.1,Transfer
+10478,2023-04-10,2360,35,FEMALE,Kenya,Beauty,82.43,4,0.1,Cash
+10479,2023-10-16,2219,50,,Kenya,Home,,1,0.05,Cash
+10480,2023-09-11,2574,50,, nigeria,Electronics,364.46,3,0,Transfer
+10481,2023-08-10,2584,30,Female,Kenya,Beauty,421.7,3,0.1,Cash
+10482,2023-12-23,2160,18,FEMALE, nigeria,Fashion,153.01,1,0,card
+10483,2023-01-23,2088,18,FEMALE,Kenya,Beauty,161.72,1,0.1,Transfer
+10484,2023-09-07,2584,30,,Ghana,electronics ,337.25,4,0.05,Transfer
+10485,2023-01-10,2588,40,FEMALE,Kenya,Electronics,20.57,1,0.05,Card
+10486,2023-09-03,2158,50,,South Africa,Home,,2,0,Card
+10487,2023-11-21,2488,40,Female, nigeria,Electronics,418.71,3,,Transfer
+10488,2023-04-10,2323,55,,Nigeria,electronics ,210.51,1,,Transfer
+10489,2023-10-17,2380,55,FEMALE,Nigeria,electronics ,383.62,2,0.05,Card
+10490,2023-06-29,2101,22,FEMALE, nigeria,electronics ,91.43,3,0.1,card
+10491,2023-08-11,2493,,,Ghana,electronics ,164.52,2,,Cash
+10492,2023-09-07,2018,18,,Kenya,Fashion,487.28,2,0.05,Cash
+10493,2023-05-27,2453,22,,Ghana,Home,493.23,1,0.1,Cash
+10494,2023-04-06,2481,35,male ,Nigeria,electronics ,258.74,3,0.1,Transfer
+10495,2023-09-14,2593,30,FEMALE, nigeria,electronics ,467.46,2,,card
+10496,2023-11-21,2396,30,FEMALE, nigeria,Beauty,263.75,4,0.05,Card
+10497,2023-01-04,2278,55,male ,Ghana,Home,149.34,3,0.1,card
+10498,2023-01-16,2364,50,,Ghana,Electronics,137.12,4,0.1,card
+10499,2023-10-07,2330,40,Female,Kenya,Home,,1,0,Cash
+10500,2023-12-02,2343,18,,South Africa,Home,90.36,4,0,Card
+10501,2023-09-04,2454,22,,South Africa,Home,291.92,3,,card
+10502,2023-09-15,2064,40,male ,Kenya,electronics ,279.98,2,0,Card
+10503,2023-06-09,2075,22,FEMALE,South Africa,electronics ,371.11,2,0.05,Transfer
+10504,2023-12-06,2142,,,Nigeria,Fashion,252.13,3,,Cash
+10505,2023-06-01,2472,35,FEMALE,South Africa,Electronics,139.78,2,,Card
+10506,2023-06-27,2416,35,Male,Kenya,Beauty,88.85,4,0,Transfer
+10507,2023-06-12,2304,40,FEMALE,South Africa,Home,312.31,2,0.1,Transfer
+10508,2023-02-02,2496,40,Female, nigeria,Electronics,360.9,2,0.05,Transfer
+10509,2023-06-28,2290,40,Female,Ghana,Electronics,286.91,4,0.05,card
+10510,2023-04-11,2101,22,,Nigeria,Fashion,370.48,4,0.05,card
+10511,2023-09-25,2266,,FEMALE, nigeria,Beauty,75.05,4,,Cash
+10512,2023-11-19,2002,25,, nigeria,Home,441.82,1,0.05,Cash
+10513,2023-03-06,2084,40,male ,Kenya,Beauty,293.29,4,0.1,Transfer
+10514,2023-06-17,2327,50,Female,Ghana,Fashion,67.79,4,0.1,Cash
+10515,2023-11-26,2449,18,,Ghana,electronics ,233.65,1,0,card
+10516,2023-02-12,2453,18,male ,Nigeria,Electronics,423.17,2,0.05,Cash
+10517,2023-02-13,2220,22,,Kenya,Home,449.29,4,,Card
+10518,2023-10-12,2153,40,FEMALE,Nigeria,electronics ,136.0,3,0,card
+10519,2023-01-12,2011,55,FEMALE,South Africa,Fashion,357.08,4,0.1,Transfer
+10520,2023-04-05,2132,30,FEMALE, nigeria,Beauty,54.49,4,0.05,Transfer
+10521,2023-10-29,2303,25,FEMALE,Nigeria,Electronics,,1,0.1,Cash
+10522,2023-09-10,2292,50,Male, nigeria,Home,282.4,3,0,card
+10523,2023-08-30,2299,,male ,Kenya,electronics ,348.94,2,0.1,Transfer
+10524,2023-02-04,2042,55,male ,South Africa,electronics ,398.91,2,0.05,Transfer
+10525,2023-08-03,2342,35,FEMALE,Kenya,Electronics,173.41,3,0.05,card
+10526,2023-12-03,2325,55,Male,South Africa,Beauty,8.23,4,0,card
+10527,2023-03-31,2497,22,FEMALE,South Africa,Fashion,242.36,1,0.05,Transfer
+10528,2023-09-21,2363,25,Male, nigeria,Beauty,12.85,3,0.1,Cash
+10529,2023-04-03,2426,45,FEMALE,Kenya,Beauty,50.53,3,0.1,Cash
+10530,2023-03-31,2020,45,Female,Kenya,Beauty,166.71,2,,Cash
+10531,2023-04-25,2406,40,Female,Nigeria,Electronics,221.4,1,,Card
+10532,2023-04-15,2335,40,,Kenya,Electronics,143.34,3,,card
+10533,2023-07-15,2116,22,FEMALE,Nigeria,Fashion,293.02,1,0.1,Transfer
+10534,2023-11-10,2123,,male ,Ghana,Beauty,32.4,4,0.1,Card
+10535,2023-04-24,2398,40,,Ghana,Electronics,76.57,2,0,Cash
+10536,2023-03-16,2050,30,Female,Ghana,Fashion,349.15,4,,Card
+10537,2023-08-05,2323,25,FEMALE,Kenya,Fashion,75.36,1,0.1,Transfer
+10538,2023-10-04,2140,22,,Kenya,Beauty,321.69,4,0,Transfer
+10539,2023-09-06,2469,18,FEMALE,Nigeria,Home,32.07,2,0.1,card
+10540,2023-06-13,2333,35,Female,South Africa,Beauty,206.65,1,0,Cash
+10541,2023-12-23,2372,22,,Nigeria,Home,92.82,3,,Cash
+10542,2023-07-11,2563,22,Female,Ghana,Fashion,59.27,4,,Card
+10543,2023-08-15,2493,45,Male,Nigeria,Electronics,285.68,2,,Cash
+10544,2023-06-26,2538,50,Female,South Africa,electronics ,464.53,3,0.1,Card
+10545,2023-04-09,2155,,FEMALE,Kenya,Fashion,32.12,2,0.1,Transfer
+10546,2023-02-05,2290,50,male ,Nigeria,Electronics,213.67,1,0,Transfer
+10547,2023-04-06,2143,30,Female,Ghana,Fashion,355.23,1,0.05,Transfer
+10548,2023-06-01,2105,18,male ,Ghana,Beauty,234.03,4,0.05,Transfer
+10549,2023-05-31,2419,45,Male,Kenya,Home,404.22,2,,Transfer
+10550,2023-07-09,2001,18,,Nigeria,Fashion,93.92,2,0.05,Card
+10551,2023-08-12,2588,30,,South Africa,Electronics,480.0,2,,Transfer
+10552,2023-02-06,2089,50,male ,Kenya,Beauty,195.66,1,0,Card
+10553,2023-09-25,2344,22,,Nigeria,electronics ,174.08,4,0.05,Transfer
+10554,2023-07-02,2349,40,Female, nigeria,Beauty,437.93,2,0.05,Card
+10555,2023-01-13,2458,40,male ,Ghana,Home,284.11,2,,Card
+10556,2023-10-06,2262,55,FEMALE,South Africa,Beauty,260.64,3,0,Card
+10557,2023-08-05,2350,35,Female,South Africa,electronics ,364.85,2,0.05,Cash
+10558,2023-12-21,2107,,Female,South Africa,Electronics,,4,0.05,Card
+10559,2023-12-27,2585,30,Female,Ghana,Fashion,85.45,3,0.05,Card
+10560,2023-10-13,2038,35,FEMALE,Nigeria,Home,338.73,3,0,Transfer
+10561,2023-09-30,2158,,Male,Kenya,electronics ,71.07,3,0,Card
+10562,2023-03-03,2582,35,,Nigeria,Home,403.9,1,0.05,Card
+10563,2023-03-25,2311,50,male ,Kenya,Beauty,494.92,3,,card
+10564,2023-08-05,2240,,Male,South Africa,Home,191.81,2,,Cash
+10565,2023-12-08,2444,50,male ,Nigeria,electronics ,225.15,1,0.05,card
+10566,2023-07-06,2297,22,,South Africa,Fashion,27.98,1,0,Transfer
+10567,2023-01-19,2035,45,FEMALE, nigeria,Fashion,11.8,1,0.05,Cash
+10568,2023-06-26,2083,50,Female,South Africa,Home,461.1,1,0,Cash
+10569,2023-04-10,2451,40,Female,South Africa,Electronics,68.67,1,0.05,card
+10570,2023-08-21,2384,35,FEMALE,Kenya,Home,225.66,1,0,Cash
+10571,2023-03-17,2171,55,Male, nigeria,Beauty,408.6,1,0.1,card
+10572,2023-09-22,2375,25,Male,South Africa,Fashion,445.21,3,,Card
+10573,2023-10-11,2361,,male ,South Africa,Fashion,262.1,4,0.1,card
+10574,2023-07-25,2558,30,FEMALE, nigeria,Fashion,284.69,2,,Cash
+10575,2023-08-11,2140,55,Male, nigeria,Electronics,336.49,2,0,Cash
+10576,2023-02-21,2117,40,FEMALE,Nigeria,Electronics,480.88,3,0.1,Transfer
+10577,2023-12-05,2276,50,,Kenya,electronics ,303.32,3,,Transfer
+10578,2023-05-24,2219,45,Female, nigeria,Home,281.94,1,0.05,Transfer
+10579,2023-03-10,2025,22,Female, nigeria,Home,12.19,4,0,Transfer
+10580,2023-04-09,2520,25,Female,Ghana,Beauty,45.07,1,0,Cash
+10581,2023-01-25,2009,18,FEMALE, nigeria,Fashion,290.7,3,0.05,Transfer
+10582,2023-02-22,2377,55,FEMALE,Kenya,Electronics,468.44,1,0.05,card
+10583,2023-05-31,2583,45,male ,South Africa,Beauty,434.01,2,,Card
+10584,2023-05-24,2151,18,Female,South Africa,Beauty,,2,0,Cash
+10585,2023-02-26,2048,25,male ,South Africa,Electronics,266.28,1,,Transfer
+10586,2023-02-08,2153,30,Female,South Africa,Home,395.03,4,0.05,Cash
+10587,2023-04-19,2292,30,male ,Ghana,Fashion,421.0,1,0,Transfer
+10588,2023-06-30,2579,35,male , nigeria,Home,325.78,1,0.05,Cash
+10589,2023-02-11,2049,25,,South Africa,Beauty,172.68,4,,Transfer
+10590,2023-07-05,2530,25,male ,Nigeria,Fashion,237.64,4,,Card
+10591,2023-08-11,2059,18,FEMALE,South Africa,electronics ,429.67,4,,Transfer
+10592,2023-05-02,2166,45,male , nigeria,Beauty,152.78,2,0,card
+10593,2023-05-13,2201,,Female,South Africa,Home,462.25,1,0.05,Cash
+10594,2023-06-12,2145,18,male ,Ghana,Home,118.75,3,0.05,Cash
+10595,2023-08-03,2438,22,Male,Kenya,Home,376.01,4,,card
+10596,2023-08-09,2241,30,Female,Kenya,Electronics,317.13,4,,card
+10597,2023-08-23,2580,30,Male, nigeria,Beauty,376.05,1,,Card
+10598,2023-11-27,2560,35,Female,Kenya,Fashion,221.49,3,,Cash
+10599,2023-05-26,2482,22,FEMALE,Kenya,Home,466.66,1,0.1,Card
+10600,2023-08-27,2107,30,FEMALE,Nigeria,Home,318.07,1,0.1,Cash
+10601,2023-03-17,2225,18,FEMALE, nigeria,Electronics,147.71,4,0.1,Cash
+10602,2023-01-09,2431,22,Male, nigeria,Fashion,321.04,4,,Card
+10603,2023-03-15,2418,18,,Kenya,Beauty,146.97,2,,Cash
+10604,2023-09-10,2454,,Female,Kenya,electronics ,150.35,3,0.05,Cash
+10605,2023-08-18,2159,,FEMALE,Kenya,Electronics,202.8,3,0,Card
+10606,2023-01-07,2522,30,Female,Ghana,Beauty,426.95,4,0.05,Transfer
+10607,2023-06-23,2589,30,Male,South Africa,electronics ,252.65,4,0.1,Card
+10608,2023-05-21,2076,45,,Ghana,Home,341.06,4,0.05,Cash
+10609,2023-06-17,2508,,Male, nigeria,Home,199.02,3,,card
+10610,2023-06-19,2440,55,Female,Nigeria,Fashion,135.48,2,0.1,Transfer
+10611,2023-10-10,2253,55,,South Africa,electronics ,477.55,3,0.1,card
+10612,2023-05-02,2319,35,,Nigeria,Home,303.77,4,0,Transfer
+10613,2023-07-13,2262,,Male, nigeria,Home,467.31,4,0,card
+10614,2023-01-05,2596,18,FEMALE, nigeria,Fashion,105.69,2,0.1,Transfer
+10615,2023-01-29,2553,18,Female,Nigeria,Beauty,77.71,1,0.1,Card
+10616,2023-06-14,2373,40,male ,Nigeria,Home,428.63,1,0.05,Transfer
+10617,2023-12-05,2166,22,male ,Nigeria,Electronics,342.05,3,0.1,Transfer
+10618,2023-05-16,2458,50,Male, nigeria,Electronics,97.36,1,,Transfer
+10619,2023-12-31,2279,55,Female,Kenya,Beauty,138.33,1,0.05,Cash
+10620,2023-11-17,2301,30,Female,Nigeria,electronics ,401.33,3,,card
+10621,2023-12-08,2530,35,Male,South Africa,Fashion,229.66,4,,Card
+10622,2023-05-25,2579,50,Female, nigeria,Electronics,336.92,1,,card
+10623,2023-11-23,2217,25,FEMALE,Ghana,Electronics,162.58,4,0.1,card
+10624,2023-08-05,2101,35,Male,Ghana,Beauty,193.71,3,0,Card
+10625,2023-10-28,2553,25,FEMALE,South Africa,electronics ,495.4,4,0,Cash
+10626,2023-05-12,2287,,Female,Kenya,electronics ,127.57,4,,Transfer
+10627,2023-10-19,2166,25,Male,Nigeria,Beauty,255.7,3,0.1,Cash
+10628,2023-03-11,2035,25,Female, nigeria,Electronics,422.98,4,0.05,Cash
+10629,2023-09-09,2352,45,Male,Nigeria,Fashion,123.42,1,,Transfer
+10630,2023-10-02,2072,45,Female, nigeria,Electronics,210.53,1,0.05,card
+10631,2023-12-30,2352,45,FEMALE,Ghana,electronics ,309.47,1,0.05,Transfer
+10632,2023-07-01,2069,,FEMALE,Nigeria,Electronics,243.19,1,0.1,Card
+10633,2023-06-16,2424,50,Female,South Africa,Fashion,232.45,4,0.1,Transfer
+10634,2023-04-01,2560,35,Male,Kenya,Home,184.44,1,0,card
+10635,2023-07-21,2516,35,male ,South Africa,Electronics,295.39,4,0,Cash
+10636,2023-12-12,2427,30,FEMALE,Kenya,Beauty,314.06,2,0.1,Cash
+10637,2023-01-19,2538,45,FEMALE,Nigeria,Home,328.38,4,,Transfer
+10638,2023-02-08,2159,,male ,Nigeria,Beauty,,1,0,Card
+10639,2023-05-06,2148,30,Female,Kenya,Beauty,317.36,2,0.05,card
+10640,2023-06-22,2229,22,Male,Ghana,Beauty,476.85,3,,Cash
+10641,2023-05-21,2561,30,Female, nigeria,Electronics,272.79,4,0.05,Transfer
+10642,2023-08-30,2066,50,,South Africa,electronics ,359.06,1,0.1,Card
+10643,2023-08-08,2380,55,FEMALE,South Africa,Home,280.58,1,0.05,Card
+10644,2023-05-06,2057,25,,South Africa,Fashion,428.1,1,,Cash
+10645,2023-02-27,2258,45,FEMALE,Nigeria,electronics ,465.14,3,0.1,Cash
+10646,2023-05-28,2341,55,FEMALE,South Africa,Electronics,96.19,2,,card
+10647,2023-11-13,2129,30,, nigeria,Beauty,,2,0.05,Card
+10648,2023-12-27,2171,,, nigeria,Fashion,199.23,1,,card
+10649,2023-01-01,2208,25,Female,Kenya,Home,205.58,4,0.1,Card
+10650,2023-12-14,2353,35,,Nigeria,electronics ,67.13,1,0.05,Card
+10651,2023-07-09,2470,18,Female, nigeria,electronics ,407.74,1,0.05,Transfer
+10652,2023-07-10,2115,25,Female,Ghana,Fashion,22.7,4,0,Cash
+10653,2023-11-08,2263,50,Female,Nigeria,Electronics,266.47,1,0,Card
+10654,2023-04-27,2441,50,FEMALE,Nigeria,Home,332.63,3,,card
+10655,2023-05-14,2547,30,FEMALE, nigeria,Fashion,107.7,1,0,Cash
+10656,2023-02-27,2452,22,,Ghana,Beauty,453.4,3,0,card
+10657,2023-02-13,2476,50,FEMALE,Kenya,Home,420.08,1,0,Cash
+10658,2023-06-22,2286,50,, nigeria,electronics ,238.19,2,0,Cash
+10659,2023-06-09,2302,,FEMALE,Ghana,Fashion,,4,0.1,Card
+10660,2023-06-22,2310,30,Male,Nigeria,electronics ,122.1,2,0.1,Transfer
+10661,2023-11-13,2207,25,Male,Ghana,electronics ,366.35,1,0,Card
+10662,2023-10-30,2445,22,,Nigeria,electronics ,70.21,1,,Cash
+10663,2023-05-29,2054,55,FEMALE, nigeria,Electronics,341.72,3,0.1,Card
+10664,2023-03-21,2011,18,FEMALE, nigeria,electronics ,422.02,1,0,Card
+10665,2023-08-01,2399,45,Female,South Africa,Beauty,118.09,1,0.1,Cash
+10666,2023-07-22,2514,35,male ,South Africa,Beauty,433.88,1,0.05,Cash
+10667,2023-09-09,2541,50,,South Africa,Home,21.49,2,0.1,Card
+10668,2023-08-17,2236,30,male , nigeria,electronics ,456.83,3,0.1,Card
+10669,2023-06-13,2278,45,male ,Kenya,electronics ,63.59,2,,Card
+10670,2023-08-15,2347,35,, nigeria,Fashion,324.65,3,0.1,card
+10671,2023-05-27,2103,35,FEMALE,Ghana,Electronics,128.79,2,,Card
+10672,2023-01-20,2516,55,, nigeria,Home,419.09,1,0.05,card
+10673,2023-02-16,2247,55,male , nigeria,electronics ,258.59,2,0,Transfer
+10674,2023-08-21,2363,55,FEMALE,Nigeria,Fashion,71.94,2,,card
+10675,2023-11-01,2320,40,Male,Nigeria,Electronics,287.64,3,0.1,Card
+10676,2023-01-14,2285,40,,Nigeria,Home,206.9,3,0.1,Transfer
+10677,2023-05-23,2148,35,, nigeria,Home,332.42,2,,card
+10678,2023-01-01,2083,55,FEMALE,Kenya,electronics ,441.54,3,0.05,card
+10679,2023-02-23,2405,,Male,Ghana,Home,207.65,3,0,Cash
+10680,2023-09-16,2455,50,Male,Ghana,Fashion,148.49,3,0.1,Transfer
+10681,2023-05-24,2160,45,FEMALE,Kenya,Home,12.18,4,0.05,Cash
+10682,2023-01-12,2459,45,Female,Kenya,Beauty,289.55,3,0,Transfer
+10683,2023-11-26,2549,40,,Ghana,Fashion,204.13,4,0,card
+10684,2023-08-12,2499,35,,South Africa,Electronics,190.45,4,0.1,Cash
+10685,2023-09-29,2508,30,male ,Nigeria,Electronics,95.55,3,,Card
+10686,2023-12-24,2480,25,FEMALE,Nigeria,electronics ,217.88,2,0.1,card
+10687,2023-06-05,2113,25,male ,Ghana,electronics ,492.3,3,0.1,Transfer
+10688,2023-01-08,2577,40,male ,Kenya,Beauty,152.39,1,0.1,Transfer
+10689,2023-05-02,2360,30,Male,South Africa,Electronics,301.85,2,0.05,Cash
+10690,2023-12-14,2340,40,,Ghana,Electronics,389.36,4,,Cash
+10691,2023-06-13,2448,25,male ,Nigeria,Electronics,375.83,4,0.05,Transfer
+10692,2023-03-31,2179,30,Male, nigeria,Electronics,167.74,2,0.1,card
+10693,2023-05-16,2406,55,FEMALE,Kenya,Home,307.38,2,,Cash
+10694,2023-07-05,2195,35,male , nigeria,Fashion,436.28,3,0,Card
+10695,2023-11-12,2465,45,,Ghana,Fashion,12.65,4,,Transfer
+10696,2023-06-27,2310,,male ,Nigeria,Beauty,220.69,1,0.1,Card
+10697,2023-01-28,2261,22,FEMALE,South Africa,Home,116.02,3,,Transfer
+10698,2023-08-08,2418,35,male , nigeria,Electronics,197.37,2,0,Card
+10699,2023-12-23,2405,55,,South Africa,Electronics,210.91,4,0,card
+10700,2023-02-10,2142,25,Male,Nigeria,electronics ,,2,,Transfer
+10701,2023-08-16,2341,55,, nigeria,electronics ,51.44,2,0,card
+10702,2023-07-11,2315,40,Male,South Africa,Beauty,258.73,2,0.05,Cash
+10703,2023-05-25,2100,30,Female,South Africa,Electronics,284.28,3,,Transfer
+10704,2023-07-20,2243,45,, nigeria,Beauty,249.61,1,0,card
+10705,2023-07-31,2489,50,,Nigeria,Home,367.28,1,0,Card
+10706,2023-08-08,2011,40,FEMALE,South Africa,Fashion,194.98,4,,card
+10707,2023-08-28,2238,35,male ,Ghana,Electronics,472.76,2,0.05,Transfer
+10708,2023-02-15,2560,40,Male, nigeria,Home,243.49,1,,card
+10709,2023-02-04,2041,35,Male,Kenya,Electronics,287.75,2,0,Card
+10710,2023-09-10,2593,50,FEMALE,Kenya,electronics ,413.64,4,,Card
+10711,2023-03-23,2428,18,FEMALE,Nigeria,Beauty,141.24,2,0,Card
+10712,2023-09-13,2157,45,male ,Ghana,electronics ,42.23,1,0.1,Cash
+10713,2023-07-16,2215,,male ,South Africa,Fashion,355.35,2,,Transfer
+10714,2023-10-30,2461,,,Kenya,electronics ,244.09,1,,Card
+10715,2023-01-10,2133,22,Female,Nigeria,Electronics,448.77,4,0,Cash
+10716,2023-11-08,2066,55,male ,Ghana,electronics ,491.43,2,0,Card
+10717,2023-10-13,2006,18,FEMALE,Ghana,Electronics,202.56,1,0,card
+10718,2023-08-30,2525,,male ,Nigeria,Fashion,210.64,4,0,Transfer
+10719,2023-09-08,2072,40,Male,Nigeria,electronics ,206.94,2,,card
+10720,2023-12-31,2398,55,Female,South Africa,Beauty,165.65,4,0,Cash
+10721,2023-01-05,2404,18,,Nigeria,Beauty,,1,,card
+10722,2023-04-29,2577,30,Male,South Africa,Beauty,380.7,2,0.05,card
+10723,2023-10-16,2129,30,Male,South Africa,electronics ,241.93,2,,Card
+10724,2023-03-06,2465,55,Female, nigeria,electronics ,27.11,2,0,card
+10725,2023-05-26,2205,35,,Ghana,electronics ,158.23,4,0,Card
+10726,2023-08-12,2265,35,FEMALE,Ghana,Electronics,149.69,4,0.05,Card
+10727,2023-08-27,2536,40,,Ghana,Fashion,406.49,1,,Transfer
+10728,2023-06-26,2252,18,male , nigeria,Beauty,48.35,3,0.05,Cash
+10729,2023-09-24,2288,18,Male,South Africa,Electronics,403.81,2,,Cash
+10730,2023-12-07,2163,55,male ,South Africa,Beauty,336.25,2,0,Cash
+10731,2023-10-09,2094,25,FEMALE,Nigeria,Electronics,367.56,1,,Card
+10732,2023-03-04,2109,30,male , nigeria,electronics ,218.95,2,0,Cash
+10733,2023-08-05,2335,18,,Nigeria,Beauty,341.46,4,0,Card
+10734,2023-12-08,2237,55,male , nigeria,electronics ,306.47,4,0.1,Transfer
+10735,2023-11-11,2380,50,FEMALE,Nigeria,Beauty,385.65,2,0.1,Cash
+10736,2023-10-10,2435,22,FEMALE,Kenya,Home,226.15,2,,Card
+10737,2023-06-26,2482,50,FEMALE,Ghana,Electronics,239.05,4,0,Cash
+10738,2023-04-08,2024,45,,Ghana,Home,323.57,2,0.05,Cash
+10739,2023-04-15,2116,40,FEMALE,South Africa,Electronics,58.5,4,0,Transfer
+10740,2023-04-09,2481,18,Male,Kenya,Fashion,220.94,3,0.05,card
+10741,2023-11-07,2391,45,FEMALE,Ghana,Beauty,486.12,3,,Cash
+10742,2023-01-06,2536,,male ,South Africa,Fashion,23.59,2,,Transfer
+10743,2023-07-16,2078,45,male ,Kenya,Fashion,161.42,2,0.05,Cash
+10744,2023-12-17,2579,55,male ,Ghana,Electronics,160.48,2,0.05,Cash
+10745,2023-05-13,2172,18,,Nigeria,Home,318.56,4,0,Cash
+10746,2023-12-24,2011,22,male , nigeria,electronics ,57.37,3,,Cash
+10747,2023-09-16,2127,55,,Kenya,Electronics,316.13,3,0,card
+10748,2023-01-23,2091,55,,South Africa,electronics ,52.04,1,0.05,card
+10749,2023-02-22,2542,40,FEMALE,Kenya,Fashion,52.0,1,0.1,Cash
+10750,2023-06-14,2531,40,Male,South Africa,electronics ,365.45,2,0.1,Cash
+10751,2023-07-21,2446,30,FEMALE,Kenya,Home,165.45,4,0.1,Transfer
+10752,2023-03-24,2389,30,FEMALE,South Africa,Electronics,488.82,2,0.05,Transfer
+10753,2023-05-25,2042,35,,Ghana,Home,23.49,3,0,Card
+10754,2023-03-26,2253,25,,Nigeria,Home,225.33,2,,card
+10755,2023-03-19,2129,18,male ,Ghana,Electronics,61.0,2,0.05,Cash
+10756,2023-01-01,2059,18,male ,Nigeria,Home,178.93,3,0.1,card
+10757,2023-02-20,2466,45,FEMALE,Ghana,Beauty,499.12,3,0,Transfer
+10758,2023-06-22,2286,18,Female,Ghana,Beauty,444.98,3,,card
+10759,2023-07-24,2516,18,Female,Kenya,Beauty,28.92,3,,card
+10760,2023-09-17,2466,25,male , nigeria,electronics ,283.81,1,0.05,Cash
+10761,2023-10-15,2344,,Female,South Africa,Home,325.67,4,0.05,Cash
+10762,2023-02-03,2381,30,male ,South Africa,Electronics,108.72,4,,Transfer
+10763,2023-12-14,2252,30,,South Africa,Electronics,76.83,3,,Cash
+10764,2023-04-05,2055,22,FEMALE,Nigeria,electronics ,452.67,4,0.1,Transfer
+10765,2023-03-13,2462,18,Male,South Africa,Electronics,484.56,4,,Transfer
+10766,2023-02-08,2456,25,FEMALE,South Africa,Beauty,495.99,4,0.05,Card
+10767,2023-06-03,2082,30,male ,Kenya,Home,395.93,4,0,Card
+10768,2023-09-07,2098,25,male ,Ghana,Electronics,333.43,3,0.1,Card
+10769,2023-06-11,2148,50,FEMALE,South Africa,Electronics,176.14,2,0.1,card
+10770,2023-04-28,2328,,male , nigeria,Fashion,89.84,2,,Card
+10771,2023-09-16,2155,18,Female,South Africa,Fashion,44.1,2,0,Cash
+10772,2023-11-02,2189,22,Female,Nigeria,Fashion,348.18,1,0.1,Cash
+10773,2023-09-25,2493,45,male ,Nigeria,Home,393.44,4,0.05,Card
+10774,2023-02-23,2262,30,male ,Nigeria,Beauty,414.09,3,,card
+10775,2023-08-24,2079,50,Female,South Africa,Beauty,457.31,3,0.05,Transfer
+10776,2023-08-10,2399,25,male ,Kenya,Beauty,440.57,1,,card
+10777,2023-09-08,2259,40,male , nigeria,Home,499.87,3,0.1,card
+10778,2023-11-09,2551,55,FEMALE,South Africa,Home,125.81,2,,Transfer
+10779,2023-04-22,2100,18,Male,Kenya,Fashion,382.84,1,0,Transfer
+10780,2023-09-12,2358,18,Female,Kenya,Electronics,295.3,3,0.05,Transfer
+10781,2023-10-30,2379,50,FEMALE,South Africa,electronics ,134.32,1,0,Cash
+10782,2023-07-26,2220,25,Male,South Africa,electronics ,491.04,1,0.05,Transfer
+10783,2023-08-17,2419,35,male ,Kenya,Electronics,449.46,3,0.05,Transfer
+10784,2023-12-07,2123,18,male ,Kenya,Fashion,68.62,2,,card
+10785,2023-03-07,2421,35,FEMALE,Kenya,Electronics,17.95,3,0.1,card
+10786,2023-03-16,2230,40,male ,South Africa,Electronics,345.72,4,0.1,Card
+10787,2023-04-13,2062,50,,Kenya,electronics ,304.04,4,0,card
+10788,2023-07-11,2484,25,FEMALE,Nigeria,Fashion,468.23,3,,Transfer
+10789,2023-09-09,2573,25,Male,South Africa,Home,120.83,2,0.1,Cash
+10790,2023-08-14,2482,,FEMALE,Nigeria,electronics ,46.77,4,0.05,card
+10791,2023-10-21,2518,55,Female,Ghana,Home,133.31,4,0.05,card
+10792,2023-11-02,2154,30,FEMALE,South Africa,Fashion,14.37,3,,Transfer
+10793,2023-04-08,2091,30,male ,Ghana,Electronics,22.77,3,0,card
+10794,2023-12-04,2525,45,male ,Kenya,Beauty,457.85,3,,card
+10795,2023-10-13,2454,22,,Kenya,Beauty,179.25,1,0,Transfer
+10796,2023-12-01,2597,50,, nigeria,Fashion,208.35,1,,card
+10797,2023-12-13,2509,40,,Kenya,Beauty,14.09,1,0.05,Cash
+10798,2023-11-04,2182,25,Male,Ghana,Home,138.91,3,,Card
+10799,2023-09-06,2385,55,,Kenya,Beauty,403.34,2,0.1,card
+10800,2023-06-15,2573,35,Male,South Africa,Fashion,309.67,4,0.1,Cash
+10801,2023-12-01,2404,50,,Kenya,Fashion,378.12,1,,card
+10802,2023-01-30,2245,45,Male, nigeria,Home,226.37,2,0,Card
+10803,2023-09-04,2590,50,FEMALE,Kenya,Beauty,158.32,3,0,Transfer
+10804,2023-04-16,2470,45,FEMALE,Ghana,Beauty,243.99,1,0.05,Card
+10805,2023-02-20,2422,25,male ,Ghana,Electronics,164.92,3,0.05,card
+10806,2023-03-22,2064,22,Male,Kenya,electronics ,420.29,2,0,Card
+10807,2023-05-13,2012,45,Female,Ghana,Fashion,152.35,1,,Card
+10808,2023-10-12,2212,25,male ,Ghana,Electronics,331.58,1,0.05,Transfer
+10809,2023-05-18,2241,25,FEMALE, nigeria,Fashion,72.81,1,0,card
+10810,2023-07-03,2492,22,Male,South Africa,Electronics,345.0,1,0,Card
+10811,2023-11-26,2212,30,, nigeria,electronics ,457.08,2,,Card
+10812,2023-09-30,2337,50,Female,Nigeria,Electronics,306.25,1,0.1,Transfer
+10813,2023-12-06,2172,18,FEMALE, nigeria,Fashion,282.13,4,0,Cash
+10814,2023-03-10,2163,18,male ,Kenya,Beauty,480.75,4,0.05,card
+10815,2023-02-03,2464,35,Male,South Africa,Fashion,315.56,3,,Cash
+10816,2023-09-19,2496,35,Female,Kenya,Home,,1,,Cash
+10817,2023-02-22,2394,18,Male,Nigeria,Home,149.73,4,,Transfer
+10818,2023-07-24,2307,40,,South Africa,Home,354.13,4,0.1,Transfer
+10819,2023-05-06,2182,18,male ,Ghana,Home,369.04,4,0.1,card
+10820,2023-08-23,2509,35,Male, nigeria,electronics ,155.23,2,0.05,Cash
+10821,2023-02-12,2545,55,FEMALE,Kenya,Beauty,175.95,1,0.05,Card
+10822,2023-08-28,2563,35,male ,Nigeria,Beauty,495.57,2,,Cash
+10823,2023-04-21,2593,40,FEMALE,Ghana,Fashion,55.47,2,0.05,Transfer
+10824,2023-09-06,2226,50,Male, nigeria,Electronics,205.3,4,0,Card
+10825,2023-05-31,2435,18,male ,Ghana,Fashion,35.91,4,0.1,Card
+10826,2023-07-02,2421,22,FEMALE, nigeria,Fashion,411.43,3,,Transfer
+10827,2023-12-02,2553,55,,South Africa,Fashion,50.71,1,,Card
+10828,2023-04-05,2020,25,,Ghana,Fashion,338.63,1,0,Cash
+10829,2023-01-08,2553,40,Male,Ghana,Beauty,32.96,4,0,Transfer
+10830,2023-12-26,2396,35,male ,Ghana,Electronics,338.06,4,0,card
+10831,2023-07-03,2104,22,Female,South Africa,Fashion,422.3,1,0,Transfer
+10832,2023-10-08,2191,45,male ,Nigeria,Beauty,202.42,3,,card
+10833,2023-07-14,2016,30,, nigeria,Fashion,263.45,4,0.1,card
+10834,2023-12-18,2119,18,FEMALE,Ghana,Home,203.76,3,0.1,Transfer
+10835,2023-07-14,2392,30,Female,South Africa,Fashion,153.74,2,0,Transfer
+10836,2023-06-04,2424,40,Male,Nigeria,Fashion,402.62,4,0.05,card
+10837,2023-04-03,2128,45,Female, nigeria,electronics ,139.64,2,,card
+10838,2023-06-09,2129,45,Male,South Africa,Home,362.86,4,0.1,Card
+10839,2023-03-02,2571,45,Female, nigeria,Electronics,107.07,2,0,Transfer
+10840,2023-05-02,2559,25,Male,Ghana,Fashion,128.68,4,0.05,Transfer
+10841,2023-02-20,2028,40,Male,Nigeria,Electronics,171.55,3,0.05,Card
+10842,2023-10-04,2096,50,Female,South Africa,Home,296.63,3,0,Transfer
+10843,2023-01-05,2009,30,Female,Nigeria,Fashion,229.94,3,,Card
+10844,2023-04-02,2241,50,Male,Ghana,electronics ,373.85,2,0.1,Card
+10845,2023-06-19,2231,22,,Nigeria,Beauty,110.72,3,0.05,Transfer
+10846,2023-11-13,2283,,Female,Nigeria,electronics ,10.28,2,0.1,Cash
+10847,2023-01-22,2199,55,male ,Kenya,electronics ,389.4,4,0.1,card
+10848,2023-11-22,2078,55,FEMALE,Nigeria,Beauty,411.72,2,0.05,Transfer
+10849,2023-01-01,2172,50,Male, nigeria,Beauty,34.44,4,0,Cash
+10850,2023-05-13,2466,,Male,South Africa,Beauty,307.4,1,0.05,Card
+10851,2023-08-21,2580,,FEMALE,Kenya,Fashion,192.21,1,0.05,Cash
+10852,2023-01-12,2415,18,,South Africa,Electronics,397.98,1,,Transfer
+10853,2023-12-12,2448,22,FEMALE,South Africa,Electronics,437.84,2,0.1,Transfer
+10854,2023-02-15,2086,40,Female,Ghana,Beauty,426.25,1,0,Cash
+10855,2023-02-03,2100,,FEMALE,Ghana,electronics ,389.72,1,0.1,Transfer
+10856,2023-03-19,2007,35,Male,Kenya,Home,138.18,1,0.05,card
+10857,2023-08-06,2199,55,FEMALE,Ghana,Beauty,406.89,4,0,Cash
+10858,2023-10-28,2504,35,male ,Ghana,electronics ,269.07,3,0,Card
+10859,2023-03-14,2086,22,Female,Ghana,electronics ,31.11,2,0,Cash
+10860,2023-10-09,2042,,FEMALE,South Africa,Fashion,231.18,1,0,Cash
+10861,2023-09-06,2384,30,Male,Kenya,Fashion,471.37,4,,Cash
+10862,2023-02-16,2434,55,Female,South Africa,Electronics,444.49,3,0,Cash
+10863,2023-05-01,2407,18,Male, nigeria,Electronics,55.62,3,0.05,Card
+10864,2023-08-02,2482,18,,South Africa,Home,373.34,3,,Card
+10865,2023-08-27,2016,45,male , nigeria,Home,403.87,4,0.05,Card
+10866,2023-02-25,2147,25,,Nigeria,Home,139.34,1,0.05,Cash
+10867,2023-12-16,2276,,male ,Nigeria,Home,238.45,3,0.1,card
+10868,2023-04-17,2231,22,FEMALE, nigeria,electronics ,356.94,4,0,card
+10869,2023-11-15,2365,55,Female, nigeria,electronics ,222.33,4,0,Card
+10870,2023-02-17,2227,25,FEMALE,South Africa,Electronics,60.83,2,0.05,card
+10871,2023-03-02,2435,22,male , nigeria,Fashion,354.41,4,0,card
+10872,2023-12-03,2398,50,male ,Kenya,Fashion,456.26,3,,card
+10873,2023-01-26,2210,,male ,Nigeria,Beauty,327.98,3,0.1,card
+10874,2023-10-19,2390,40,Male,Nigeria,electronics ,388.03,4,0,card
+10875,2023-09-14,2498,40,Female, nigeria,Home,182.39,3,0,Transfer
+10876,2023-01-08,2539,,FEMALE,Ghana,Home,95.68,4,,Card
+10877,2023-04-23,2562,45,FEMALE,Ghana,Beauty,323.17,3,0.1,Cash
+10878,2023-12-21,2490,45,, nigeria,Fashion,167.25,2,,card
+10879,2023-09-10,2441,40,male ,Kenya,Home,430.74,1,0.05,Transfer
+10880,2023-06-29,2260,30,male ,Ghana,Fashion,65.7,2,0.05,Cash
+10881,2023-07-26,2349,55,male , nigeria,Beauty,219.56,2,0,Transfer
+10882,2023-10-30,2351,40,FEMALE,Kenya,Fashion,201.38,1,0.1,card
+10883,2023-05-07,2519,30,,Kenya,Fashion,469.34,3,0.05,card
+10884,2023-02-25,2319,25,Male,South Africa,Fashion,80.8,1,,card
+10885,2023-08-02,2137,30,Female,Kenya,Home,,4,0.05,card
+10886,2023-01-14,2549,25,Male,Ghana,Electronics,122.85,1,0.05,Cash
+10887,2023-01-28,2367,22,FEMALE,Ghana,electronics ,411.04,2,,Cash
+10888,2023-03-19,2219,35,male , nigeria,Fashion,108.61,1,0,Transfer
+10889,2023-08-04,2336,22,Female, nigeria,Fashion,124.23,3,0.1,Card
+10890,2023-12-31,2222,40,FEMALE,Kenya,Fashion,69.3,2,0,card
+10891,2023-06-03,2359,25,FEMALE,Nigeria,Electronics,359.14,4,,Transfer
+10892,2023-01-14,2328,40,FEMALE,South Africa,Beauty,39.24,3,0.05,Transfer
+10893,2023-07-06,2462,,Female,Nigeria,Home,168.95,2,0.1,Transfer
+10894,2023-11-08,2560,55,Female,Kenya,Electronics,144.84,4,0,card
+10895,2023-01-07,2381,18,,Kenya,Fashion,279.8,3,,card
+10896,2023-01-03,2589,40,,Nigeria,Electronics,366.56,4,0.05,Transfer
+10897,2023-04-21,2168,55,Male,South Africa,Electronics,268.77,1,0.05,card
+10898,2023-08-26,2216,30,Female,Nigeria,Electronics,465.86,1,0,Transfer
+10899,2023-12-29,2377,22,Female, nigeria,Beauty,475.96,4,,Cash
+10900,2023-08-27,2118,30,Female,Ghana,electronics ,183.93,1,0.05,card
+10901,2023-10-01,2189,18,, nigeria,Home,389.95,4,0.05,Cash
+10902,2023-10-21,2369,25,FEMALE,Ghana,Beauty,370.71,3,0.1,Card
+10903,2023-08-15,2148,,male ,Kenya,Beauty,447.02,2,0.05,card
+10904,2023-01-15,2487,55,,South Africa,electronics ,226.73,4,0,Card
+10905,2023-07-11,2373,,Female,Nigeria,Beauty,267.58,2,,Transfer
+10906,2023-04-29,2159,35,,South Africa,Electronics,210.81,2,,card
+10907,2023-01-28,2350,40,Male,Nigeria,Electronics,425.94,4,0.1,card
+10908,2023-07-21,2287,25,Female, nigeria,Fashion,118.7,1,,card
+10909,2023-02-08,2287,35,Male, nigeria,Beauty,123.66,3,0,Card
+10910,2023-09-30,2225,50,Female,Nigeria,Fashion,189.44,2,0.05,Card
+10911,2023-08-19,2522,40,,South Africa,Home,119.02,3,0.1,Transfer
+10912,2023-03-27,2521,30,FEMALE,Nigeria,Electronics,282.7,2,,Cash
+10913,2023-05-06,2272,22,male ,Kenya,Home,71.57,4,0.1,Cash
+10914,2023-10-27,2401,55,Male, nigeria,electronics ,163.49,1,0.1,Card
+10915,2023-01-25,2182,18,,Kenya,Electronics,457.16,3,,card
+10916,2023-05-25,2487,18,FEMALE, nigeria,Home,207.57,2,0.1,Cash
+10917,2023-01-13,2123,30,, nigeria,electronics ,375.38,4,,Cash
+10918,2023-07-31,2413,45,Male,Ghana,Home,61.16,4,0,Card
+10919,2023-01-25,2171,18,male ,Kenya,electronics ,127.54,2,,Transfer
+10920,2023-03-09,2287,55,,Kenya,electronics ,404.64,2,0.05,Card
+10921,2023-03-08,2434,30,Female,Ghana,Electronics,382.68,2,,Card
+10922,2023-08-21,2112,25,FEMALE,South Africa,Fashion,196.15,1,0.05,card
+10923,2023-04-19,2121,18,,Kenya,electronics ,477.43,2,0.1,Card
+10924,2023-05-26,2543,,FEMALE,Nigeria,electronics ,455.77,2,,card
+10925,2023-04-21,2221,30,Female,Ghana,Electronics,481.34,1,0.05,Transfer
+10926,2023-08-16,2038,55,male ,Kenya,Fashion,216.82,4,,card
+10927,2023-04-21,2496,,male ,South Africa,Beauty,102.75,2,,Transfer
+10928,2023-02-03,2232,40,Female,Kenya,Beauty,315.2,3,,Transfer
+10929,2023-04-21,2529,40,FEMALE, nigeria,Fashion,343.96,4,0,Transfer
+10930,2023-09-21,2148,18,,Nigeria,Home,67.09,3,0.05,Card
+10931,2023-08-24,2396,,Female,Ghana,Electronics,394.31,2,0,card
+10932,2023-03-24,2301,22,Male, nigeria,Fashion,13.94,1,0,Cash
+10933,2023-02-11,2359,40,FEMALE,South Africa,Beauty,243.95,1,0.05,Card
+10934,2023-04-11,2237,22,male , nigeria,electronics ,,1,,Transfer
+10935,2023-01-06,2235,25,Female, nigeria,Beauty,371.45,2,0,Cash
+10936,2023-06-29,2202,30,male ,South Africa,electronics ,159.82,2,0,Card
+10937,2023-10-09,2255,35,FEMALE, nigeria,Electronics,414.27,3,0,Cash
+10938,2023-11-16,2597,55,male ,Ghana,electronics ,299.5,1,,Transfer
+10939,2023-08-14,2234,30,Female,Kenya,Fashion,,2,0,Cash
+10940,2023-11-11,2344,55,FEMALE, nigeria,electronics ,494.72,4,0.1,Cash
+10941,2023-12-31,2533,,Male,Ghana,Home,341.18,2,0.05,Transfer
+10942,2023-08-17,2465,25,Female,Kenya,Fashion,492.55,2,0.1,Cash
+10943,2023-10-16,2540,50,,Kenya,Electronics,19.27,4,,Card
+10944,2023-05-30,2212,18,Female, nigeria,Fashion,172.38,1,0,Cash
+10945,2023-10-04,2462,55,FEMALE,Ghana,Home,58.39,4,0.05,card
+10946,2023-07-17,2435,55,Female, nigeria,Electronics,134.84,1,0,Card
+10947,2023-03-11,2282,,Male,South Africa,Beauty,420.25,4,,Cash
+10948,2023-04-22,2561,22,Male,Kenya,Home,21.0,3,0.05,card
+10949,2023-01-04,2462,30,, nigeria,Electronics,262.49,1,0.1,card
+10950,2023-12-16,2406,50,male ,Kenya,electronics ,285.73,2,0.05,card
+10951,2023-11-27,2087,45,FEMALE,Ghana,Fashion,282.77,3,0,Cash
+10952,2023-11-14,2043,18,FEMALE,Nigeria,Electronics,240.27,1,0.05,Transfer
+10953,2023-12-16,2460,35,male , nigeria,Fashion,396.35,1,,card
+10954,2023-04-05,2277,45,Male, nigeria,electronics ,71.1,1,,Transfer
+10955,2023-06-01,2420,30,Male,Kenya,Electronics,158.74,4,0.05,Card
+10956,2023-11-07,2352,18,Female,Ghana,Beauty,309.78,1,,Transfer
+10957,2023-05-17,2514,55,,South Africa,Home,347.02,2,,Transfer
+10958,2023-09-04,2018,35,,Ghana,Electronics,205.05,1,,Transfer
+10959,2023-08-31,2022,22,, nigeria,electronics ,438.31,2,0.1,Transfer
+10960,2023-01-31,2412,50,Female,South Africa,Electronics,210.67,2,0,Transfer
+10961,2023-02-09,2029,22,,Ghana,Fashion,204.37,2,,Card
+10962,2023-08-17,2107,25,male ,Nigeria,Electronics,22.92,3,0.05,Card
+10963,2023-02-05,2366,,Female,Kenya,Beauty,277.81,2,,Transfer
+10964,2023-08-11,2280,18,male ,Ghana,Electronics,355.8,4,0.1,Transfer
+10965,2023-01-06,2127,22,Female,Ghana,Home,61.65,1,0.05,card
+10966,2023-11-18,2228,45,,Nigeria,Electronics,156.19,4,0,Card
+10967,2023-08-08,2110,,male , nigeria,Fashion,391.72,3,0.05,Cash
+10968,2023-03-16,2135,22,male ,Kenya,Electronics,186.13,1,0.05,Card
+10969,2023-01-04,2361,40,male ,Ghana,Beauty,124.59,2,0.05,Cash
+10970,2023-12-01,2185,25,Female,South Africa,electronics ,337.74,1,0.05,card
+10971,2023-05-14,2583,30,FEMALE,Ghana,Electronics,102.4,3,,Transfer
+10972,2023-04-28,2128,50,,Kenya,Electronics,448.35,3,0,card
+10973,2023-04-04,2260,25,male ,Ghana,Home,57.27,4,,Transfer
+10974,2023-03-03,2514,,FEMALE,Nigeria,Beauty,354.74,1,0.1,Card
+10975,2023-07-13,2448,40,,Ghana,electronics ,252.28,1,0.1,Transfer
+10976,2023-12-01,2103,18,,Ghana,Fashion,435.62,1,0.05,Cash
+10977,2023-07-22,2482,45,male ,South Africa,Electronics,67.47,4,,Cash
+10978,2023-01-26,2223,50,male ,Nigeria,electronics ,340.56,3,,card
+10979,2023-06-22,2490,50,Female,Nigeria,Fashion,,2,0,Card
+10980,2023-10-27,2472,25,FEMALE,Ghana,Beauty,242.64,1,0,Cash
+10981,2023-05-13,2009,,FEMALE,South Africa,Beauty,248.25,4,0,card
+10982,2023-11-22,2404,18,male ,Ghana,electronics ,,4,,Card
+10983,2023-04-28,2301,55,,Ghana,Fashion,469.18,2,0,Card
+10984,2023-11-20,2230,40,male ,Kenya,Beauty,50.17,3,0,card
+10985,2023-10-02,2065,55,,Kenya,electronics ,14.65,1,0,Cash
+10986,2023-07-31,2111,45,,South Africa,Beauty,403.82,1,0.05,Cash
+10987,2023-08-13,2012,18,male , nigeria,Beauty,58.54,4,0.1,card
+10988,2023-01-20,2392,18,Male,Kenya,Beauty,493.41,3,0.1,Cash
+10989,2023-04-23,2499,40,FEMALE, nigeria,Home,311.58,1,,card
+10990,2023-05-20,2597,35,,Nigeria,Fashion,327.18,2,,Cash
+10991,2023-02-16,2233,55,,Kenya,electronics ,103.45,3,0.05,Cash
+10992,2023-01-01,2313,22,Male,Kenya,electronics ,123.95,3,0.1,card
+10993,2023-03-31,2565,50,Female,South Africa,Fashion,331.38,4,0,card
+10994,2023-05-22,2011,35,Male, nigeria,Fashion,455.31,4,0,Cash
+10995,2023-11-16,2208,22,Male,Kenya,Fashion,491.28,1,,card
+10996,2023-02-07,2013,,,Kenya,Fashion,103.03,4,0.1,Cash
+10997,2023-10-20,2417,40,FEMALE,South Africa,Electronics,71.39,3,,Transfer
+10998,2023-05-19,2436,,Male,South Africa,electronics ,32.92,1,,Card
+10999,2023-12-22,2376,50,Female, nigeria,Electronics,434.81,1,0,Card
+11000,2023-11-29,2019,30,male ,Nigeria,Beauty,150.88,3,0,Cash
+11001,2023-09-16,2586,22,Male,Nigeria,Beauty,5.9,1,0.1,Card
+11002,2023-06-10,2069,35,Male,Ghana,electronics ,115.79,2,,Cash
+11003,2023-06-27,2210,22,Female,Kenya,Beauty,173.52,2,0.05,card
+11004,2023-01-10,2100,22,FEMALE, nigeria,Fashion,495.54,1,0.1,Transfer
+11005,2023-09-18,2131,40,Male,Kenya,Electronics,264.15,4,,Card
+11006,2023-05-18,2380,,Male, nigeria,Fashion,106.33,2,0.1,Card
+11007,2023-06-21,2131,55,FEMALE, nigeria,Beauty,170.74,1,0.1,card
+11008,2023-01-13,2019,30,Female, nigeria,Electronics,168.5,2,0.1,Transfer
+11009,2023-06-17,2535,40,Male,Kenya,Fashion,14.76,4,0.05,Transfer
+11010,2023-05-10,2226,45,FEMALE,South Africa,electronics ,71.92,3,0.05,Transfer
+11011,2023-03-25,2153,40,Male,Kenya,Fashion,349.12,1,0,card
+11012,2023-11-17,2468,50,male , nigeria,Beauty,64.52,1,0,Card
+11013,2023-11-15,2404,30,,Ghana,Electronics,119.21,1,,Card
+11014,2023-04-11,2201,18,male ,Nigeria,electronics ,178.61,1,0.1,Transfer
+11015,2023-11-25,2037,45,Male, nigeria,Electronics,380.08,1,,card
+11016,2023-09-30,2187,25,Female,Ghana,electronics ,293.29,1,0,card
+11017,2023-09-22,2056,40,,South Africa,Electronics,346.05,4,0.05,card
+11018,2023-02-07,2019,22,male , nigeria,Beauty,285.67,3,0,Transfer
+11019,2023-04-04,2272,55,FEMALE,Ghana,electronics ,343.38,4,,card
+11020,2023-04-05,2118,18,Female, nigeria,Home,6.41,4,0,Transfer
+11021,2023-11-01,2582,40,male ,Kenya,Electronics,465.79,3,,Transfer
+11022,2023-03-10,2515,40,FEMALE,Ghana,Electronics,59.91,4,,Transfer
+11023,2023-11-14,2220,35,Male,Kenya,Fashion,206.09,2,,Cash
+11024,2023-08-24,2525,35,FEMALE,Kenya,electronics ,386.66,4,,Transfer
+11025,2023-11-30,2514,18,male ,Ghana,Home,220.44,1,0,card
+11026,2023-05-17,2335,,male ,Nigeria,Beauty,473.69,2,,Cash
+11027,2023-03-17,2054,35,Male,Ghana,Fashion,236.46,2,,Card
+11028,2023-02-04,2499,22,FEMALE,Nigeria,Home,438.1,3,0.1,Card
+11029,2023-01-01,2535,45,FEMALE, nigeria,electronics ,406.36,4,,card
+11030,2023-10-23,2161,25,Male, nigeria,Home,490.59,4,0,card
+11031,2023-11-16,2593,30,FEMALE,Ghana,Electronics,463.64,2,,card
+11032,2023-03-01,2158,25,Male, nigeria,Electronics,449.57,4,0.05,card
+11033,2023-11-16,2187,25,Female,South Africa,Fashion,367.14,4,0.05,Cash
+11034,2023-12-15,2059,30,male ,Kenya,electronics ,186.66,3,,card
+11035,2023-11-24,2318,35,Female,Kenya,electronics ,57.53,2,0.05,Transfer
+11036,2023-09-24,2210,18,,Nigeria,Home,345.88,1,0.05,Card
+11037,2023-12-27,2405,30,, nigeria,Fashion,489.43,2,0,card
+11038,2023-08-17,2108,50,,Nigeria,electronics ,364.67,3,0.1,Transfer
+11039,2023-09-27,2075,,Male,Kenya,Electronics,464.72,3,0.05,card
+11040,2023-11-12,2541,45,FEMALE,Kenya,Home,,3,0.05,Transfer
+11041,2023-10-13,2313,55,Female, nigeria,Beauty,85.74,4,0.1,Cash
+11042,2023-10-18,2116,35,Female,South Africa,Electronics,128.36,2,0.1,Card
+11043,2023-08-01,2018,,Female,South Africa,Fashion,174.22,4,0.05,Card
+11044,2023-06-14,2431,30,Female, nigeria,electronics ,88.29,4,,Cash
+11045,2023-01-05,2349,50,, nigeria,Electronics,292.92,2,0.05,Transfer
+11046,2023-12-05,2182,55,Female,Nigeria,Beauty,487.85,3,,card
+11047,2023-03-19,2112,45,FEMALE, nigeria,Beauty,381.92,1,,Transfer
+11048,2023-03-03,2182,45,,South Africa,Fashion,214.58,1,,Card
+11049,2023-05-12,2480,35,Female, nigeria,Electronics,7.23,2,0.1,Cash
+11050,2023-03-30,2145,30,Male,Nigeria,Home,160.07,2,0.05,Cash
+11051,2023-08-25,2112,,male ,Nigeria,Electronics,265.75,3,0.05,Transfer
+11052,2023-02-11,2475,18,male ,Nigeria,Beauty,165.5,2,0,Transfer
+11053,2023-03-30,2302,,male ,Nigeria,Fashion,59.96,2,0.1,Cash
+11054,2023-10-23,2117,,,Ghana,Fashion,224.17,3,0,Card
+11055,2023-11-24,2160,45,Female, nigeria,Home,130.36,3,0,card
+11056,2023-10-22,2400,18,,Kenya,Fashion,,4,,card
+11057,2023-04-14,2197,18,FEMALE, nigeria,Fashion,55.37,2,0.1,Transfer
+11058,2023-01-14,2259,35,Male,Ghana,Fashion,29.33,1,0,Cash
+11059,2023-10-15,2046,55,Male,Nigeria,Fashion,7.63,2,0.05,Cash
+11060,2023-06-28,2398,40,male ,Ghana,Fashion,167.39,1,0,Cash
+11061,2023-05-05,2558,25,male ,South Africa,Beauty,331.89,1,0.1,Card
+11062,2023-12-19,2077,25,male ,South Africa,Electronics,366.55,1,0.05,Transfer
+11063,2023-01-23,2123,45,Female, nigeria,electronics ,229.36,4,0.05,Transfer
+11064,2023-03-04,2074,40,FEMALE, nigeria,Fashion,,3,0.05,Transfer
+11065,2023-05-23,2136,55,FEMALE,Kenya,electronics ,183.16,3,,Card
+11066,2023-06-02,2399,40,FEMALE,Kenya,electronics ,335.56,4,0.05,Transfer
+11067,2023-05-25,2504,35,FEMALE,South Africa,Beauty,25.1,3,,card
+11068,2023-08-13,2499,,male ,Nigeria,Fashion,198.42,4,,Transfer
+11069,2023-11-05,2572,45,Male,Ghana,electronics ,396.47,2,0,Transfer
+11070,2023-04-14,2137,18,male ,Kenya,Fashion,402.49,4,0,Transfer
+11071,2023-04-14,2049,45,FEMALE,Kenya,Home,359.49,3,0.05,Card
+11072,2023-02-08,2253,25,male ,Nigeria,Home,106.1,3,0.1,card
+11073,2023-07-17,2562,55,FEMALE,Nigeria,Home,127.37,2,0.05,card
+11074,2023-05-14,2425,40,, nigeria,electronics ,498.06,4,0,Cash
+11075,2023-03-08,2546,55,Male,Ghana,Home,56.17,2,0.05,Cash
+11076,2023-06-28,2301,35,,Nigeria,Beauty,94.43,1,0,card
+11077,2023-02-11,2580,45,Female,Kenya,Beauty,69.36,4,0.05,Transfer
+11078,2023-01-15,2348,30,male ,Kenya,electronics ,167.19,2,0.1,Transfer
+11079,2023-04-21,2048,45,Female,South Africa,Fashion,109.04,2,0.05,Transfer
+11080,2023-06-06,2073,18,male ,Nigeria,Electronics,251.36,3,0.1,Card
+11081,2023-10-16,2260,45,, nigeria,Fashion,240.63,4,0.1,Transfer
+11082,2023-08-19,2355,50,FEMALE,Ghana,Fashion,451.25,1,0.05,Card
+11083,2023-06-06,2581,35,FEMALE, nigeria,Fashion,22.2,1,0.1,card
+11084,2023-02-07,2259,22,male ,Kenya,Fashion,163.34,4,0.1,Transfer
+11085,2023-04-07,2294,35,FEMALE, nigeria,Electronics,300.35,4,0,Transfer
+11086,2023-10-16,2312,40,,Kenya,Home,304.38,2,0,Cash
+11087,2023-09-11,2181,22,FEMALE,Kenya,Fashion,242.66,3,0.1,card
+11088,2023-07-15,2363,40,,Kenya,Beauty,408.75,3,,Transfer
+11089,2023-03-27,2187,40,Female,Kenya,electronics ,36.05,3,0.05,Card
+11090,2023-11-18,2568,18,,Kenya,electronics ,408.67,4,0.1,card
+11091,2023-01-10,2542,18,Male,South Africa,Beauty,249.9,3,0.05,Cash
+11092,2023-01-05,2595,,Male, nigeria,Fashion,71.21,2,0,card
+11093,2023-05-03,2547,25,Male,South Africa,Electronics,443.42,4,0.05,Card
+11094,2023-11-26,2407,,male ,South Africa,Home,326.37,4,0.1,Cash
+11095,2023-12-19,2413,,male ,Nigeria,electronics ,85.96,3,0.1,Card
+11096,2023-04-28,2341,25,male ,Nigeria,Home,21.66,1,0.1,card
+11097,2023-10-21,2219,30,,Nigeria,Electronics,74.85,1,0.1,Cash
+11098,2023-06-08,2162,22,male ,Ghana,electronics ,306.35,2,,Card
+11099,2023-10-30,2219,55,Female,Nigeria,Home,93.75,3,,card
+11100,2023-08-16,2269,,Male, nigeria,Electronics,116.75,3,,Card
+11101,2023-12-31,2399,45,,South Africa,Home,17.44,4,0.1,Transfer
+11102,2023-08-04,2181,45,Male, nigeria,Fashion,362.85,4,,card
+11103,2023-07-03,2204,40,male ,Nigeria,Electronics,406.13,3,0.05,Cash
+11104,2023-01-15,2581,25,,Ghana,Home,399.44,4,0.1,Cash
+11105,2023-06-06,2555,40,FEMALE,Ghana,Fashion,68.15,3,0,Transfer
+11106,2023-05-16,2227,50,Female,South Africa,Fashion,452.13,2,0.1,Card
+11107,2023-09-18,2595,50,male , nigeria,Electronics,337.78,4,0.05,Card
+11108,2023-06-06,2249,55,male ,Kenya,Beauty,449.28,3,,Cash
+11109,2023-02-16,2440,18,Female, nigeria,electronics ,226.34,4,0.1,Card
+11110,2023-11-20,2532,18,Female,Nigeria,Electronics,221.29,2,,card
+11111,2023-11-28,2195,25,FEMALE,Kenya,Fashion,393.35,4,0.1,card
+11112,2023-06-22,2518,25,male ,Ghana,Fashion,51.18,3,0.05,Cash
+11113,2023-05-10,2069,,male ,South Africa,Electronics,262.83,4,0.1,card
+11114,2023-04-05,2398,50,Male,South Africa,Beauty,419.01,4,,Cash
+11115,2023-04-25,2202,,,Ghana,electronics ,415.95,3,,Card
+11116,2023-08-31,2147,18,,Nigeria,Home,478.29,1,0.05,Card
+11117,2023-10-19,2471,22,Male,Ghana,Electronics,350.64,4,0.1,Card
+11118,2023-10-09,2198,22,,Nigeria,electronics ,107.85,4,0,Transfer
+11119,2023-10-26,2425,25,Female,Kenya,electronics ,15.04,2,0.1,Cash
+11120,2023-10-10,2491,40,,Ghana,Fashion,242.31,1,0.05,card
+11121,2023-03-10,2141,18,,Nigeria,Home,259.28,2,0,Card
+11122,2023-05-28,2312,22,Male,Kenya,Electronics,123.93,3,0.05,Transfer
+11123,2023-01-11,2164,18,FEMALE,Ghana,Fashion,66.73,3,0.1,card
+11124,2023-09-11,2313,35,,South Africa,Fashion,295.17,2,0,card
+11125,2023-11-26,2020,45,,Ghana,Beauty,383.31,4,0.05,card
+11126,2023-12-26,2081,50,FEMALE, nigeria,electronics ,496.61,1,,Card
+11127,2023-02-07,2580,,Male,Ghana,Electronics,380.36,2,0,card
+11128,2023-05-14,2130,18,FEMALE, nigeria,Electronics,397.85,2,0,Cash
+11129,2023-07-19,2598,45,Male,Kenya,Electronics,310.15,3,0.05,Transfer
+11130,2023-01-23,2304,35,Female,Ghana,Fashion,493.03,4,,card
+11131,2023-10-30,2370,,Male,Kenya,Beauty,321.78,1,0,card
+11132,2023-12-12,2383,18,Female,Kenya,Home,430.83,2,0.05,Cash
+11133,2023-10-29,2444,25,Female,Nigeria,Fashion,473.16,1,0,card
+11134,2023-12-29,2424,45,Male,Kenya,Home,465.28,1,0,Card
+11135,2023-08-06,2160,,male ,Kenya,Beauty,193.8,2,0,Card
+11136,2023-05-21,2177,18,Male,Ghana,electronics ,43.94,1,,Card
+11137,2023-04-14,2489,45,,Ghana,Electronics,90.08,3,0.1,card
+11138,2023-07-29,2326,35,,South Africa,Home,34.32,4,0.1,Transfer
+11139,2023-04-21,2597,18,male ,Nigeria,Fashion,57.17,4,,Transfer
+11140,2023-04-14,2288,18,Female,Kenya,Home,96.4,4,,card
+11141,2023-11-12,2592,18,male ,Nigeria,electronics ,173.84,3,0.05,Transfer
+11142,2023-06-20,2572,55,, nigeria,Electronics,274.05,3,0,Transfer
+11143,2023-12-22,2572,25,male ,Kenya,Home,357.28,3,,card
+11144,2023-11-20,2353,35,Male,Nigeria,electronics ,109.41,4,0.05,Card
+11145,2023-05-13,2027,,male ,South Africa,Fashion,337.9,1,0.1,card
+11146,2023-10-20,2042,55,Female,South Africa,Beauty,353.61,3,0.1,Card
+11147,2023-11-24,2422,40,Male,Kenya,Fashion,281.52,2,0.1,Card
+11148,2023-05-07,2597,55,FEMALE, nigeria,Electronics,452.29,3,0.1,Transfer
+11149,2023-04-16,2176,50,,South Africa,Fashion,59.94,2,0.05,Transfer
+11150,2023-04-02,2528,50,,South Africa,Fashion,92.68,4,0,Card
+11151,2023-10-14,2493,18,male , nigeria,Fashion,217.19,2,0.05,Card
+11152,2023-02-20,2197,55,Male,Nigeria,Fashion,67.72,3,0,Transfer
+11153,2023-01-29,2576,40,FEMALE,South Africa,Electronics,285.32,3,0.1,Cash
+11154,2023-10-23,2516,55,Male,Ghana,electronics ,202.21,1,,Card
+11155,2023-10-24,2513,25,,South Africa,Home,145.87,4,,Card
+11156,2023-08-02,2021,25,Male,Nigeria,Beauty,89.14,2,,Card
+11157,2023-09-24,2111,40,FEMALE,Nigeria,Home,,4,0,Transfer
+11158,2023-09-14,2056,55,male ,Kenya,Home,305.94,3,0.1,card
+11159,2023-10-29,2065,45,Female,Ghana,Beauty,290.01,1,0.05,Card
+11160,2023-04-11,2097,25,Male,Nigeria,Electronics,85.99,3,,Card
+11161,2023-12-12,2143,25,Female, nigeria,Beauty,66.84,3,0,Card
+11162,2023-04-20,2434,22,,Ghana,Electronics,18.2,3,,card
+11163,2023-07-01,2085,55,male ,Ghana,Home,11.15,2,0.05,card
+11164,2023-11-09,2587,25,male , nigeria,Electronics,440.51,3,0.1,Card
+11165,2023-01-01,2343,35,Male,South Africa,electronics ,27.32,4,0.05,Card
+11166,2023-11-15,2293,55,male , nigeria,Beauty,366.95,4,0.1,Cash
+11167,2023-02-24,2570,50,Male, nigeria,electronics ,436.63,1,0.1,card
+11168,2023-05-29,2242,22,Male,South Africa,Home,53.54,4,0.1,Cash
+11169,2023-11-05,2560,25,Female,South Africa,Beauty,220.97,3,,Card
+11170,2023-05-17,2031,22,male ,South Africa,Home,481.34,3,0.05,Card
+11171,2023-07-21,2390,50,Male,South Africa,electronics ,417.9,4,,Card
+11172,2023-11-09,2276,40,Female,South Africa,Home,247.4,1,0.05,Card
+11173,2023-04-27,2531,40,FEMALE, nigeria,Beauty,382.47,1,0,Transfer
+11174,2023-06-03,2153,55,Female,Kenya,Beauty,417.52,4,0,Transfer
+11175,2023-10-18,2382,50,Female,Kenya,Home,177.27,2,0.05,Transfer
+11176,2023-03-04,2067,30,Male,Nigeria,Beauty,446.62,2,0.05,Cash
+11177,2023-09-01,2213,30,,Kenya,Beauty,237.88,2,0.05,card
+11178,2023-01-25,2375,55,,Kenya,Home,266.26,2,0.05,Card
+11179,2023-03-31,2212,18,, nigeria,electronics ,499.86,4,0.1,card
+11180,2023-03-16,2078,22,Female,South Africa,Beauty,,1,,Transfer
+11181,2023-10-21,2380,22,Male,South Africa,Beauty,184.08,3,0.1,Card
+11182,2023-07-29,2057,40,male , nigeria,Beauty,10.12,3,,Card
+11183,2023-12-13,2025,30,Female,Kenya,Beauty,314.96,4,,Cash
+11184,2023-01-17,2446,,Female, nigeria,Home,353.44,3,,card
+11185,2023-05-08,2065,25,Male,Nigeria,electronics ,327.15,2,0.1,Cash
+11186,2023-12-30,2253,25,FEMALE,South Africa,electronics ,,1,0.05,Transfer
+11187,2023-09-08,2043,25,Female,Ghana,Electronics,432.17,4,0.1,card
+11188,2023-06-28,2096,40,FEMALE,Nigeria,Beauty,227.17,1,0.1,Transfer
+11189,2023-07-01,2553,50,FEMALE,Nigeria,Beauty,36.11,4,,Cash
+11190,2023-06-01,2226,45,, nigeria,Electronics,240.65,4,0,Cash
+11191,2023-01-25,2435,30,Male,Kenya,electronics ,346.18,4,0,Card
+11192,2023-06-29,2378,30,FEMALE,South Africa,Fashion,305.82,4,0.1,card
+11193,2023-07-17,2177,,Male,Ghana,Fashion,271.38,1,,card
+11194,2023-12-10,2426,22,,Nigeria,electronics ,237.07,3,0.1,Card
+11195,2023-06-10,2306,18,Male,Ghana,Beauty,150.41,4,0.1,card
+11196,2023-06-26,2503,55,Female,Kenya,Fashion,142.29,2,0.05,Transfer
+11197,2023-10-12,2267,22,FEMALE,Kenya,Home,252.61,4,,Transfer
+11198,2023-03-04,2585,50,Male,Ghana,Home,84.5,1,0,Cash
+11199,2023-05-30,2007,55,male ,South Africa,Electronics,173.64,4,0,Transfer
+11200,2023-06-03,2507,30,Male,Kenya,electronics ,165.37,2,0,card
+11201,2023-06-05,2475,50,FEMALE,Ghana,electronics ,295.63,1,0.1,Card
+11202,2023-02-18,2296,55,,Nigeria,Fashion,38.01,4,,Cash
+11203,2023-12-03,2163,,,Ghana,Beauty,415.69,2,0.05,Card
+11204,2023-03-25,2484,,FEMALE,Ghana,electronics ,283.38,1,0,Cash
+11205,2023-12-27,2596,35,Female, nigeria,Fashion,337.06,4,,Cash
+11206,2023-06-26,2071,45,Female,Kenya,Fashion,353.03,2,0,Card
+11207,2023-05-28,2566,,,South Africa,electronics ,149.28,1,0.05,Transfer
+11208,2023-04-28,2558,30,,South Africa,Fashion,237.83,4,,Transfer
+11209,2023-12-08,2237,18,FEMALE, nigeria,Electronics,478.34,1,0.1,Transfer
+11210,2023-03-04,2103,25,Female,South Africa,Electronics,384.52,2,0.1,Transfer
+11211,2023-07-08,2209,35,,Ghana,electronics ,484.93,4,0,Card
+11212,2023-12-26,2553,25,Female, nigeria,Beauty,374.4,4,0,card
+11213,2023-02-18,2467,45,,Nigeria,Electronics,91.92,4,,Cash
+11214,2023-11-23,2453,55,Male,Kenya,Electronics,,2,0.05,Card
+11215,2023-09-14,2267,40,male ,Kenya,electronics ,290.94,3,0,Transfer
+11216,2023-08-12,2385,,Male,Kenya,Home,182.12,4,,Transfer
+11217,2023-05-21,2386,18,,Ghana,Fashion,141.35,2,0.05,Card
+11218,2023-08-03,2258,45,male ,Nigeria,Electronics,404.57,1,0,Cash
+11219,2023-07-30,2282,25,male , nigeria,Home,186.66,1,0,Card
+11220,2023-11-14,2039,35,, nigeria,Beauty,161.92,2,,Card
+11221,2023-02-01,2485,,,Kenya,Home,425.74,3,0,card
+11222,2023-06-07,2219,30,Female,Nigeria,electronics ,423.91,2,0.1,Card
+11223,2023-10-12,2128,,,Nigeria,Beauty,181.4,1,0.05,card
+11224,2023-11-01,2519,35,FEMALE,Nigeria,Beauty,417.09,1,0.05,Cash
+11225,2023-10-13,2259,35,,South Africa,Home,426.14,4,0.1,Card
+11226,2023-05-24,2365,40,FEMALE,South Africa,electronics ,214.85,3,,Card
+11227,2023-01-19,2543,,,Kenya,Electronics,37.9,2,0.1,Transfer
+11228,2023-01-18,2523,,Female,Nigeria,Home,5.78,1,0.1,Card
+11229,2023-09-14,2015,40,FEMALE,Nigeria,Electronics,264.03,1,0.05,Transfer
+11230,2023-03-19,2128,50,Male, nigeria,Home,175.32,1,,Transfer
+11231,2023-06-24,2574,50,FEMALE, nigeria,Electronics,498.58,2,0,Transfer
+11232,2023-07-13,2108,55,Female,Kenya,Home,387.34,2,0.1,Cash
+11233,2023-04-23,2532,50,FEMALE,Nigeria,Beauty,381.83,3,0.1,card
+11234,2023-04-24,2268,22,,Kenya,Fashion,477.85,4,,Transfer
+11235,2023-08-10,2161,,, nigeria,Beauty,444.42,4,0.1,Card
+11236,2023-06-15,2259,18,Female, nigeria,Electronics,162.5,4,,Card
+11237,2023-11-15,2101,,male ,South Africa,electronics ,87.16,1,0,Transfer
+11238,2023-05-12,2505,22,,Kenya,Beauty,374.22,4,,Transfer
+11239,2023-09-21,2570,22,Male,Kenya,Fashion,192.25,1,0,Card
+11240,2023-02-24,2246,25,Female,Nigeria,Electronics,239.22,3,,Transfer
+11241,2023-12-25,2536,,FEMALE,Nigeria,Beauty,317.05,1,0.1,card
+11242,2023-05-11,2130,45,FEMALE,South Africa,Home,454.4,3,0,card
+11243,2023-10-15,2352,22,Male,Ghana,electronics ,212.45,3,0.1,Cash
+11244,2023-09-23,2195,18,,Ghana,Electronics,392.74,4,0,Transfer
+11245,2023-06-11,2381,40,Female,Ghana,Beauty,137.83,4,,Cash
+11246,2023-03-28,2226,55,Male,Kenya,Electronics,350.5,1,,Cash
+11247,2023-02-24,2475,25,,Kenya,Home,5.78,2,,Cash
+11248,2023-10-15,2476,40,Female, nigeria,Fashion,436.4,4,0.05,Transfer
+11249,2023-06-27,2264,25,FEMALE,Kenya,Beauty,20.04,4,0.05,Cash
+11250,2023-12-15,2371,18,Female,Kenya,Electronics,357.81,2,0,card
+11251,2023-01-08,2485,35,male ,Kenya,Electronics,27.9,2,0.05,Cash
+11252,2023-11-17,2433,,Female,South Africa,Electronics,136.79,4,,card
+11253,2023-11-09,2210,30,male ,Kenya,Fashion,251.12,2,0.05,card
+11254,2023-09-04,2571,45,Female,Nigeria,Electronics,212.87,1,0.05,Transfer
+11255,2023-11-19,2376,40,male ,Nigeria,electronics ,99.96,3,0.1,Cash
+11256,2023-09-12,2394,,FEMALE, nigeria,electronics ,170.24,3,0,Transfer
+11257,2023-11-24,2449,45,,South Africa,Electronics,365.21,4,0,card
+11258,2023-02-23,2363,35,male ,Nigeria,electronics ,336.28,4,0,Card
+11259,2023-09-06,2456,30,male ,South Africa,Beauty,40.55,1,0.05,Cash
+11260,2023-08-27,2225,45,FEMALE,South Africa,electronics ,374.92,2,,Transfer
+11261,2023-08-17,2130,45,male , nigeria,Electronics,31.26,4,0.1,Card
+11262,2023-03-08,2587,40,Male,South Africa,Home,273.75,3,0,Cash
+11263,2023-02-20,2475,50,FEMALE,Kenya,Beauty,133.73,1,0.05,Cash
+11264,2023-04-07,2276,30,Male,South Africa,Fashion,295.91,1,,Transfer
+11265,2023-04-02,2155,,FEMALE, nigeria,Electronics,134.36,2,0.1,Card
+11266,2023-09-21,2217,35,male , nigeria,Fashion,492.55,4,0.1,Transfer
+11267,2023-10-18,2189,30,Male, nigeria,Home,158.32,4,0,Cash
+11268,2023-04-06,2416,18,male ,Nigeria,Fashion,124.77,1,0,Cash
+11269,2023-03-29,2545,50,FEMALE,Kenya,Electronics,142.84,3,,card
+11270,2023-03-19,2040,18,male ,Nigeria,Electronics,448.75,4,0.05,Cash
+11271,2023-10-15,2306,35,Male,Ghana,Home,319.93,3,,Cash
+11272,2023-04-30,2337,40,Male,Kenya,Electronics,366.69,1,0,Card
+11273,2023-10-29,2313,40,male ,South Africa,Home,459.42,4,,Card
+11274,2023-06-14,2074,35,Female, nigeria,Home,456.38,3,0.05,card
+11275,2023-07-01,2278,25,FEMALE,Ghana,Electronics,370.78,1,0.1,card
+11276,2023-08-11,2175,35,FEMALE,Kenya,electronics ,102.92,3,0.1,card
+11277,2023-11-07,2272,50,male ,Nigeria,Home,422.47,4,0.1,Transfer
+11278,2023-01-07,2288,22,Female, nigeria,Electronics,105.87,2,0.1,Transfer
+11279,2023-11-26,2271,40,Male,Nigeria,electronics ,372.73,3,0,card
+11280,2023-09-20,2065,55,,Kenya,Home,344.37,2,0,Transfer
+11281,2023-06-10,2482,50,,Kenya,electronics ,380.65,4,0.05,Cash
+11282,2023-05-31,2247,50,male ,Ghana,Beauty,268.68,2,0.05,card
+11283,2023-03-26,2155,50,Female,South Africa,Beauty,321.17,1,0.05,card
+11284,2023-05-27,2046,45,Female,Nigeria,electronics ,476.89,2,0.05,Transfer
+11285,2023-04-22,2453,50,FEMALE,Ghana,Home,55.04,3,,Card
+11286,2023-02-05,2200,40,Male, nigeria,Electronics,157.88,3,0.05,card
+11287,2023-10-12,2123,22,Female,South Africa,Fashion,307.62,2,0.1,Transfer
+11288,2023-07-07,2000,22,,Ghana,Electronics,482.21,1,0.1,Transfer
+11289,2023-03-23,2190,50,Male,Nigeria,Fashion,52.31,4,0.1,Card
+11290,2023-01-02,2578,18,Male,Kenya,Fashion,16.16,2,,card
+11291,2023-10-30,2515,40,male , nigeria,Home,32.6,3,0.05,Card
+11292,2023-07-16,2441,40,Female,Nigeria,electronics ,30.94,3,0.1,Cash
+11293,2023-01-11,2142,30,male ,South Africa,Electronics,454.37,2,0.1,Card
+11294,2023-08-22,2190,,Female,South Africa,electronics ,362.02,2,0.1,Card
+11295,2023-07-14,2532,25,FEMALE,Kenya,Beauty,340.17,2,0.1,Transfer
+11296,2023-04-29,2226,25,male ,Kenya,Home,263.67,4,0,Card
+11297,2023-01-20,2312,18,male , nigeria,Home,392.07,3,0.05,Cash
+11298,2023-09-18,2301,25,, nigeria,Beauty,82.05,3,0.05,Transfer
+11299,2023-10-20,2459,30,male ,Kenya,Electronics,199.01,3,,Cash
+11300,2023-09-13,2400,35,Female,Kenya,Beauty,247.55,4,0,Card
+11301,2023-08-10,2550,25,,South Africa,Electronics,59.65,1,,Cash
+11302,2023-08-14,2392,40,male ,Kenya,Fashion,212.66,3,0.1,Cash
+11303,2023-02-22,2206,35,male ,Ghana,Home,161.67,3,,Card
+11304,2023-12-21,2209,25,FEMALE,Nigeria,Electronics,,1,0.1,Card
+11305,2023-12-08,2114,40,male ,Kenya,electronics ,,4,0.1,Transfer
+11306,2023-12-30,2250,40,Male, nigeria,electronics ,383.2,1,0.05,Transfer
+11307,2023-10-07,2218,50,,Ghana,Home,13.93,1,0.05,card
+11308,2023-03-22,2406,22,Male, nigeria,Beauty,467.46,1,0.05,Transfer
+11309,2023-07-21,2442,18,,Ghana,Beauty,47.78,1,0.05,Card
+11310,2023-06-07,2353,30,FEMALE,Kenya,Electronics,400.62,4,0.05,Cash
+11311,2023-04-30,2557,45,male ,Nigeria,Beauty,449.82,4,0,Cash
+11312,2023-02-28,2549,,male , nigeria,Home,470.86,1,0.05,Transfer
+11313,2023-08-03,2141,25,male ,Ghana,Electronics,434.4,2,,Transfer
+11314,2023-05-08,2500,25,,South Africa,Fashion,147.34,2,0.1,Card
+11315,2023-08-12,2546,35,male ,Kenya,Beauty,,2,0.05,Cash
+11316,2023-07-28,2541,35,Male,Nigeria,Beauty,216.14,2,0,card
+11317,2023-04-25,2506,,male ,Kenya,Electronics,73.95,3,,card
+11318,2023-07-28,2595,25,FEMALE,South Africa,electronics ,16.02,4,,Transfer
+11319,2023-01-14,2280,55,Male,Nigeria,Beauty,435.22,4,0.1,card
+11320,2023-01-09,2423,30,male ,South Africa,Home,279.29,1,,Card
+11321,2023-02-09,2269,25,male ,Kenya,Beauty,306.32,3,,card
+11322,2023-08-25,2153,22,Female,Ghana,Fashion,463.86,1,,Transfer
+11323,2023-10-08,2082,,,Kenya,Beauty,334.23,1,,Card
+11324,2023-12-25,2425,55,Male,Kenya,electronics ,346.97,4,0,Cash
+11325,2023-07-20,2274,30,Female,Kenya,Beauty,,3,0.1,Card
+11326,2023-09-03,2283,25,FEMALE, nigeria,Electronics,62.59,2,0.05,Transfer
+11327,2023-10-05,2172,45,,South Africa,Beauty,,4,,Transfer
+11328,2023-08-23,2326,50,Male,South Africa,electronics ,484.26,3,0,card
+11329,2023-01-04,2062,22,male ,South Africa,Electronics,461.85,3,0.1,card
+11330,2023-06-03,2072,45,Male, nigeria,Home,442.62,4,0.05,Cash
+11331,2023-01-29,2374,35,male ,Ghana,Electronics,228.78,4,0.1,Cash
+11332,2023-04-19,2507,35,,Kenya,Fashion,429.31,1,0,Transfer
+11333,2023-04-08,2397,25,male ,Ghana,Electronics,28.96,1,0,Transfer
+11334,2023-08-03,2119,35,FEMALE, nigeria,Home,78.52,1,0,Transfer
+11335,2023-10-20,2436,22,male ,South Africa,Beauty,209.91,2,,Cash
+11336,2023-03-16,2464,30,FEMALE,Kenya,Electronics,244.28,4,0,Transfer
+11337,2023-11-22,2285,40,,Nigeria,Electronics,135.44,3,0.05,Cash
+11338,2023-05-26,2264,18,,Nigeria,Electronics,181.46,4,,Transfer
+11339,2023-05-08,2319,,Male,Ghana,Electronics,85.57,3,0.1,Card
+11340,2023-12-07,2375,30,FEMALE,South Africa,Home,247.12,2,0.05,Card
+11341,2023-02-11,2088,40,FEMALE,Nigeria,electronics ,397.95,4,,Transfer
+11342,2023-12-22,2202,55,Female,Ghana,electronics ,332.37,3,0,Card
+11343,2023-02-10,2333,22,Female, nigeria,Electronics,58.36,3,0.1,Cash
+11344,2023-02-03,2221,45,Female,Ghana,Home,246.35,1,0,card
+11345,2023-01-17,2040,40,male ,Ghana,Home,,2,0.05,Card
+11346,2023-06-14,2067,22,Female,Ghana,Electronics,267.3,4,0.05,card
+11347,2023-06-02,2513,50,FEMALE,Kenya,Fashion,198.88,1,,Card
+11348,2023-03-17,2597,45,male ,Ghana,Electronics,312.85,2,0.05,Cash
+11349,2023-03-28,2126,35,,Ghana,Fashion,484.48,1,0.1,Card
+11350,2023-04-27,2254,35,Male,Kenya,Electronics,51.98,4,,Card
+11351,2023-12-28,2015,45,Female,Kenya,Fashion,198.06,3,0.1,Transfer
+11352,2023-12-08,2476,55,, nigeria,Fashion,206.27,4,0,card
+11353,2023-01-27,2061,55,FEMALE,South Africa,Electronics,290.6,2,0.1,card
+11354,2023-11-09,2431,55,Male,Nigeria,Fashion,80.33,4,0.1,Cash
+11355,2023-10-14,2267,40,,Nigeria,Beauty,92.44,2,0.05,Cash
+11356,2023-05-14,2034,,Male,Ghana,electronics ,146.25,1,0,card
+11357,2023-08-07,2575,40,Female, nigeria,Home,478.16,2,0.05,Transfer
+11358,2023-06-17,2493,25,FEMALE,Ghana,Fashion,368.38,3,0,Transfer
+11359,2023-04-08,2561,18,Male,Nigeria,Fashion,332.54,3,0,card
+11360,2023-09-25,2468,45,,Kenya,Home,409.39,3,0.1,Card
+11361,2023-08-25,2324,30,Female,South Africa,Fashion,68.15,1,0.05,card
+11362,2023-11-05,2303,18,Female, nigeria,Home,430.37,2,0.1,Card
+11363,2023-06-22,2275,50,,Kenya,Electronics,299.44,1,0.1,card
+11364,2023-07-09,2200,40,,South Africa,Beauty,170.99,4,0.1,Card
+11365,2023-05-02,2444,40,Male, nigeria,Beauty,408.85,4,0,Transfer
+11366,2023-02-15,2323,22,male , nigeria,electronics ,402.27,4,0.05,card
+11367,2023-03-05,2034,18,Female,Nigeria,Fashion,423.63,4,0.05,Cash
+11368,2023-05-10,2481,22,Male,Kenya,electronics ,62.18,3,0.1,Card
+11369,2023-11-06,2479,30,, nigeria,Electronics,484.83,2,0,Transfer
+11370,2023-12-29,2064,22,Male, nigeria,Beauty,480.01,3,0.05,Cash
+11371,2023-07-12,2007,18,,South Africa,Electronics,181.95,2,,Transfer
+11372,2023-11-03,2300,45,FEMALE,Nigeria,Electronics,37.62,2,0.05,Card
+11373,2023-06-30,2342,50,,Ghana,Fashion,87.69,1,0.1,card
+11374,2023-10-19,2430,40,,Nigeria,Electronics,496.45,4,,Transfer
+11375,2023-10-09,2423,30,,Ghana,Beauty,283.69,2,0,card
+11376,2023-01-29,2331,40,male ,Kenya,electronics ,181.53,4,,card
+11377,2023-05-29,2437,25,,Kenya,Beauty,147.66,4,,Transfer
+11378,2023-09-24,2587,50,Female, nigeria,Fashion,132.21,4,0.1,Transfer
+11379,2023-10-23,2173,,Female,Kenya,Beauty,333.76,3,0.05,Transfer
+11380,2023-01-11,2558,22,Male, nigeria,Home,212.6,4,0,card
+11381,2023-06-13,2526,35,male ,Nigeria,electronics ,482.88,2,,Cash
+11382,2023-04-23,2025,18,Male,Kenya,Home,343.5,3,0.1,Card
+11383,2023-07-06,2405,40,Female,Nigeria,Home,397.06,4,0.05,Cash
+11384,2023-10-22,2231,22,Female,Nigeria,Fashion,,1,,card
+11385,2023-08-20,2532,30,FEMALE,Kenya,Electronics,44.2,4,0.1,Transfer
+11386,2023-08-15,2549,40,,Nigeria,Home,246.47,4,0.1,Transfer
+11387,2023-11-06,2504,,Female,Kenya,Beauty,,3,0.1,Card
+11388,2023-04-08,2178,50,Male,Kenya,Electronics,105.03,2,0,Card
+11389,2023-02-24,2131,50,Male,Kenya,Beauty,476.56,4,0.05,Cash
+11390,2023-04-21,2454,40,,Ghana,Beauty,224.77,3,,Cash
+11391,2023-06-01,2347,30,,Nigeria,Electronics,91.48,3,0.05,Card
+11392,2023-09-03,2539,50,FEMALE,South Africa,Electronics,103.33,2,0.05,card
+11393,2023-03-10,2405,50,male ,Kenya,Beauty,143.95,3,,Cash
+11394,2023-11-08,2075,,Male,Nigeria,Fashion,499.66,2,0.05,Transfer
+11395,2023-10-16,2578,18,, nigeria,electronics ,137.67,1,0,Transfer
+11396,2023-09-07,2491,30,Male,Kenya,electronics ,167.76,4,,card
+11397,2023-02-05,2193,30,,Kenya,Fashion,331.37,3,,Card
+11398,2023-08-27,2161,45,Female,South Africa,Electronics,150.51,1,0.1,Cash
+11399,2023-05-28,2346,45,Male,Ghana,Beauty,111.82,3,0.05,Transfer
+11400,2023-08-15,2360,50,Female,Ghana,electronics ,83.53,3,,Card
+11401,2023-09-01,2583,35,Male,Kenya,Beauty,159.78,1,,Cash
+11402,2023-12-03,2086,45,male ,Nigeria,Fashion,57.43,3,0,card
+11403,2023-12-31,2261,50,FEMALE, nigeria,Beauty,14.23,3,0.1,Transfer
+11404,2023-07-20,2213,55,Female, nigeria,Fashion,403.3,1,,card
+11405,2023-06-03,2572,25,,Nigeria,Electronics,73.26,3,0,card
+11406,2023-03-14,2261,25,male ,Kenya,Fashion,389.11,2,,card
+11407,2023-07-20,2282,30,Male, nigeria,Fashion,399.78,3,,Cash
+11408,2023-10-23,2466,35,Female,Ghana,electronics ,271.27,4,,card
+11409,2023-01-17,2379,,Male,Nigeria,Beauty,158.29,3,0,Cash
+11410,2023-05-09,2361,18,Male,South Africa,electronics ,76.79,4,0.05,Cash
+11411,2023-08-05,2448,45,Male,Kenya,Home,369.72,4,,card
+11412,2023-03-02,2440,55,FEMALE,Nigeria,Fashion,302.69,3,,card
+11413,2023-04-14,2092,50,FEMALE, nigeria,Home,329.45,1,0.05,Card
+11414,2023-02-11,2423,35,,Kenya,electronics ,9.29,2,,Transfer
+11415,2023-01-25,2141,30,Female,Ghana,Beauty,464.12,2,0.1,Card
+11416,2023-02-08,2290,45,male ,Kenya,electronics ,37.81,3,,Transfer
+11417,2023-10-18,2431,35,male ,Kenya,Beauty,186.57,1,0.1,Transfer
+11418,2023-05-11,2048,45,male ,Ghana,Beauty,204.34,1,0.05,Card
+11419,2023-08-17,2301,18,Male,Ghana,Electronics,5.67,2,0,Card
+11420,2023-04-18,2189,18,FEMALE,Kenya,Fashion,251.06,1,0.05,Transfer
+11421,2023-06-21,2135,,Female,Ghana,electronics ,377.64,3,,Transfer
+11422,2023-04-12,2554,25,Male,Nigeria,Beauty,412.52,3,0.1,Transfer
+11423,2023-12-20,2403,22,FEMALE,Ghana,electronics ,440.3,1,0,Cash
+11424,2023-01-12,2340,22,FEMALE,Ghana,electronics ,246.42,3,,Transfer
+11425,2023-10-02,2317,45,Female,Kenya,Beauty,317.16,4,0,card
+11426,2023-04-11,2362,,Female,Nigeria,Home,44.36,2,0,card
+11427,2023-02-13,2381,22,Female,South Africa,Fashion,246.58,3,,card
+11428,2023-11-01,2232,30,Male,South Africa,Fashion,81.63,1,0.05,Card
+11429,2023-01-17,2343,22,, nigeria,Electronics,187.97,2,,Card
+11430,2023-11-26,2548,40,Female,Ghana,Electronics,168.01,3,,Card
+11431,2023-02-26,2552,50,,Ghana,Electronics,214.65,2,0.05,Transfer
+11432,2023-11-07,2528,,Male,Nigeria,Fashion,287.96,1,0.1,card
+11433,2023-10-30,2570,30,,South Africa,Home,451.92,4,,Transfer
+11434,2023-01-12,2182,35,male , nigeria,Fashion,200.27,4,0,Cash
+11435,2023-11-14,2040,30,,Nigeria,Fashion,490.66,3,,Cash
+11436,2023-03-21,2550,25,Female,Ghana,Fashion,380.72,4,,Card
+11437,2023-08-04,2396,35,Male,South Africa,Fashion,258.18,3,0,Cash
+11438,2023-12-05,2493,55,Female, nigeria,Home,323.79,2,0.05,card
+11439,2023-09-21,2332,50,male ,Kenya,Electronics,55.6,3,0.1,Cash
+11440,2023-05-29,2126,50,Female,South Africa,electronics ,423.04,3,0.1,Card
+11441,2023-03-22,2557,50,Female, nigeria,Electronics,293.27,3,0,Transfer
+11442,2023-08-03,2556,50,Female,Nigeria,Electronics,493.1,4,0.05,Cash
+11443,2023-07-17,2000,45,FEMALE,Kenya,electronics ,320.03,3,,card
+11444,2023-07-19,2167,50,male , nigeria,Fashion,417.89,1,,card
+11445,2023-01-25,2018,50,Female, nigeria,Home,400.88,3,,card
+11446,2023-03-30,2331,50,Female,Ghana,Home,176.0,2,,Transfer
+11447,2023-09-25,2583,,Female,South Africa,Electronics,133.51,1,,card
+11448,2023-05-23,2455,45,Male,Ghana,electronics ,218.09,2,0,Card
+11449,2023-02-28,2108,18,FEMALE,Kenya,Beauty,236.28,2,,Card
+11450,2023-12-31,2267,30,Male, nigeria,Fashion,123.84,2,,card
+11451,2023-01-26,2444,30,FEMALE,Ghana,Electronics,447.83,1,0.05,Cash
+11452,2023-02-16,2239,35,Female,South Africa,Home,273.56,1,,card
+11453,2023-10-15,2300,,male ,Kenya,electronics ,489.33,4,0.1,Card
+11454,2023-09-23,2102,40,,Nigeria,electronics ,405.96,1,0,Card
+11455,2023-01-16,2249,30,,Ghana,Electronics,280.07,3,0,Card
+11456,2023-07-18,2452,22,Female,Kenya,Beauty,473.78,2,0,Cash
+11457,2023-10-09,2519,40,Male,Nigeria,Home,254.91,4,0.1,Cash
+11458,2023-03-27,2152,50,male ,Ghana,Electronics,444.12,1,,Cash
+11459,2023-09-07,2173,50,FEMALE,Kenya,Beauty,182.28,2,0,Card
+11460,2023-09-27,2342,45,Female,Kenya,electronics ,192.43,1,0.1,Transfer
+11461,2023-12-01,2430,40,male ,Ghana,Fashion,211.97,4,0.05,card
+11462,2023-04-27,2323,22,male ,Kenya,Home,275.58,1,,card
+11463,2023-01-07,2419,45,FEMALE, nigeria,Home,278.98,1,0.1,Card
+11464,2023-05-17,2593,35,male ,Ghana,Beauty,250.72,2,,Cash
+11465,2023-06-25,2484,40,Male,Kenya,Electronics,156.47,3,0.05,Transfer
+11466,2023-11-24,2411,,Male,Nigeria,electronics ,463.97,1,0.1,Transfer
+11467,2023-11-11,2083,50,Male,Nigeria,Beauty,296.35,4,,Cash
+11468,2023-08-03,2112,50,male , nigeria,Fashion,206.83,1,0.1,card
+11469,2023-03-23,2331,25,Male,Ghana,Fashion,327.33,1,0,card
+11470,2023-08-11,2377,45,FEMALE,Kenya,Fashion,385.14,3,,Transfer
+11471,2023-04-13,2040,18,male ,Kenya,Beauty,480.56,2,0.1,Transfer
+11472,2023-09-30,2104,18,,Nigeria,electronics ,252.28,4,0,Cash
+11473,2023-01-14,2201,45,male , nigeria,Home,60.49,2,0.05,card
+11474,2023-06-08,2449,,FEMALE,Nigeria,Electronics,223.18,2,,Transfer
+11475,2023-06-01,2265,55,,Nigeria,Home,242.09,2,,card
+11476,2023-04-18,2209,45,male , nigeria,electronics ,449.01,1,0.05,Transfer
+11477,2023-07-07,2562,,Male,Ghana,Home,200.43,3,0,Cash
+11478,2023-10-28,2117,35,Female,Kenya,Beauty,476.9,1,0.05,card
+11479,2023-04-08,2376,50,Female,Ghana,Fashion,245.14,4,,Transfer
+11480,2023-05-11,2550,22,Male,South Africa,electronics ,487.02,3,0.1,Transfer
+11481,2023-10-20,2539,55,Female,South Africa,electronics ,9.06,2,0,Transfer
+11482,2023-06-20,2083,40,Female,South Africa,Home,449.91,3,0,Transfer
+11483,2023-07-02,2453,55,Male, nigeria,Beauty,465.9,4,0,Cash
+11484,2023-12-30,2513,22,Male,Nigeria,Home,480.71,1,0.05,card
+11485,2023-02-08,2386,25,male ,Ghana,Home,,1,0.05,card
+11486,2023-01-15,2349,50,male ,Kenya,electronics ,89.99,2,0.1,Card
+11487,2023-01-04,2295,18,Male,South Africa,Home,328.61,1,0.1,card
+11488,2023-12-15,2257,,FEMALE,Ghana,Fashion,17.61,1,0,Card
+11489,2023-07-29,2080,45,Female,South Africa,Home,36.49,4,0.1,Transfer
+11490,2023-06-10,2267,45,male ,South Africa,Fashion,114.43,3,0.05,Cash
+11491,2023-01-16,2418,18,Female,Kenya,electronics ,258.66,1,0.1,Cash
+11492,2023-04-18,2234,55,, nigeria,Beauty,275.22,4,0.05,Transfer
+11493,2023-11-07,2310,50,Male,Nigeria,Fashion,21.96,4,0.1,Card
+11494,2023-08-15,2356,30,FEMALE, nigeria,Beauty,89.33,2,,Transfer
+11495,2023-06-19,2212,,,Ghana,Beauty,252.35,4,0.05,Cash
+11496,2023-02-03,2573,35,, nigeria,Fashion,299.0,2,,Cash
+11497,2023-09-08,2048,22,,Ghana,electronics ,78.46,1,0.05,card
+11498,2023-09-04,2126,55,Male,Ghana,Electronics,202.43,2,0.1,Card
+11499,2023-09-26,2222,40,male ,Nigeria,Beauty,452.68,4,,card
+11500,2023-05-21,2278,25,Male,Kenya,Beauty,499.46,3,0.1,Cash
+10479,2023-10-16,2219,50,,Kenya,Home,,1,0.05,Cash
+10600,2023-08-27,2107,30,FEMALE,Nigeria,Home,318.07,1,0.1,Cash
+10470,2023-03-10,2587,,male ,South Africa,Electronics,14.93,1,0,Transfer
+10157,2023-03-27,2571,22,Male,South Africa,Fashion,101.55,3,,Card
+10125,2023-08-15,2556,30,, nigeria,electronics ,132.06,1,,Cash
+11191,2023-01-25,2435,30,Male,Kenya,electronics ,346.18,4,0,Card
+11055,2023-11-24,2160,45,Female, nigeria,Home,130.36,3,0,card
+10141,2023-08-19,2045,40,male ,Ghana,Fashion,305.81,4,0.05,card
+11355,2023-10-14,2267,40,,Nigeria,Beauty,92.44,2,0.05,Cash
+10712,2023-09-13,2157,45,male ,Ghana,electronics ,42.23,1,0.1,Cash
+10804,2023-04-16,2470,45,FEMALE,Ghana,Beauty,243.99,1,0.05,Card
+10154,2023-11-23,2232,45,FEMALE,Nigeria,Fashion,496.42,1,0.05,Cash
+10279,2023-04-30,2193,45,,Ghana,Fashion,498.17,4,0,Card
+10843,2023-01-05,2009,30,Female,Nigeria,Fashion,229.94,3,,Card
+10351,2023-11-19,2334,22,FEMALE,Nigeria,Home,418.79,1,,Transfer
+11085,2023-04-07,2294,35,FEMALE, nigeria,Electronics,300.35,4,0,Transfer
+10011,2023-11-27,2376,35,Male,Kenya,Home,379.93,2,,Cash
+10552,2023-02-06,2089,50,male ,Kenya,Beauty,195.66,1,0,Card
+10980,2023-10-27,2472,25,FEMALE,Ghana,Beauty,242.64,1,0,Cash
+11305,2023-12-08,2114,40,male ,Kenya,electronics ,,4,0.1,Transfer
+10327,2023-02-04,2548,45,male ,Kenya,Fashion,442.45,4,0.1,Card
+10005,2023-03-13,2476,40,FEMALE,Ghana,Beauty,238.33,1,0.05,Transfer
+10970,2023-12-01,2185,25,Female,South Africa,electronics ,337.74,1,0.05,card
+11100,2023-08-16,2269,,Male, nigeria,Electronics,116.75,3,,Card
+10298,2023-06-10,2317,50,,Kenya,Electronics,8.96,4,0,Transfer
+10662,2023-10-30,2445,22,,Nigeria,electronics ,70.21,1,,Cash
+11339,2023-05-08,2319,,Male,Ghana,Electronics,85.57,3,0.1,Card
+11493,2023-11-07,2310,50,Male,Nigeria,Fashion,21.96,4,0.1,Card
+10424,2023-11-07,2484,55,Female, nigeria,electronics ,421.11,4,,card
+10588,2023-06-30,2579,35,male , nigeria,Home,325.78,1,0.05,Cash
