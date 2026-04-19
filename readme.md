@@ -181,11 +181,10 @@ ecommerce-revenue-analytics/
 ├── notebooks/
 ├── outputs/
 ├── README.md
-├── requirements.txt
 ```
 
 ---
 
 ## 📌 Final Note
 
-This project demonstrates the ability to transform messy data into **actionable business insights**, using only **core Pandas and NumPy skills**, while applying **senior-level analytical thinking**.
+This project demonstrates the ability to transform messy data into actionable business insights using core Pandas and NumPy, with a strong focus on data quality, business analysis, and risk awareness.
